@@ -426,6 +426,7 @@ class WebsiteExtractorGUI:
             # 已经初始化，尝试验证
             try:
                 self.xhs_account_manager._load_accounts()
+                self.xhs_account_manager._master_password_set = True  # 设置标志
                 self.xhs_master_password_verified = True
                 return True
             except:
@@ -447,6 +448,7 @@ class WebsiteExtractorGUI:
         try:
             self.xhs_account_manager.encryption.set_master_password(password)
             self.xhs_account_manager._load_accounts()
+            self.xhs_account_manager._master_password_set = True  # ✅ 设置标志
             self.xhs_master_password_verified = True
             self.xhs_master_password = password
             return True
@@ -1377,6 +1379,11 @@ Note: For OCR functionality, Tesseract OCR engine needs to be installed separate
     
     def refresh_xhs_account_list(self):
         """刷新账号列表"""
+        # 确保账号管理器已初始化
+        if self.xhs_account_manager is None:
+            self.xhs_account_manager = AccountManager()
+            self.xhs_log_queue = queue.Queue()
+        
         try:
             # 使用优化后的验证方法
             if not self.verify_xhs_master_password_once():
@@ -1423,6 +1430,11 @@ Note: For OCR functionality, Tesseract OCR engine needs to be installed separate
     
     def show_xhs_add_account_dialog(self):
         """显示添加账号对话框"""
+        # 确保账号管理器已初始化
+        if self.xhs_account_manager is None:
+            self.xhs_account_manager = AccountManager()
+            self.xhs_log_queue = queue.Queue()
+        
         dialog = tk.Toplevel(self.root)
         dialog.title("添加小红书账号")
         dialog.geometry("450x350")
@@ -1485,7 +1497,7 @@ Note: For OCR functionality, Tesseract OCR engine needs to be installed separate
                     import secrets
                     master_password = secrets.token_urlsafe(16)
                     self.xhs_account_manager.encryption.set_master_password(master_password)
-                    self.xhs_account_manager._master_password_set = True
+                    self.xhs_account_manager._master_password_set = True  # ✅ 设置标志
                     
                     # 显示主密码
                     msg = (f"✅ 主密码已生成\n\n"
@@ -1541,6 +1553,11 @@ Note: For OCR functionality, Tesseract OCR engine needs to be installed separate
     
     def show_xhs_account_manager(self):
         """显示账号管理器对话框"""
+        # 确保账号管理器已初始化
+        if self.xhs_account_manager is None:
+            self.xhs_account_manager = AccountManager()
+            self.xhs_log_queue = queue.Queue()
+        
         dialog = tk.Toplevel(self.root)
         dialog.title("账号管理")
         dialog.geometry("700x500")
@@ -1750,23 +1767,28 @@ Note: For OCR functionality, Tesseract OCR engine needs to be installed separate
     
     def start_xhs_monitoring(self):
         """开始监控"""
+        # 确保账号管理器已初始化
+        if self.xhs_account_manager is None:
+            self.xhs_account_manager = AccountManager()
+            self.xhs_log_queue = queue.Queue()
+        
         if self.xhs_monitor_running:
             messagebox.showwarning("警告", "监控任务已在运行中")
             return
-        
+
         # 获取配置
         try:
             keywords_text = self.xhs_keywords_text.get("1.0", tk.END).strip()
             keywords = [k.strip() for k in keywords_text.split("\n") if k.strip()]
-            
+
             if not keywords:
                 messagebox.showwarning("警告", "请至少输入一个关键词")
                 return
-            
+
             max_posts = int(self.xhs_max_posts_var.get())
             if max_posts <= 0:
                 raise ValueError("帖子数必须大于 0")
-            
+
             period_map = {
                 "1_day": MonitorPeriod.ONE_DAY,
                 "3_days": MonitorPeriod.THREE_DAYS,
@@ -1775,11 +1797,11 @@ Note: For OCR functionality, Tesseract OCR engine needs to be installed separate
                 "1_month": MonitorPeriod.ONE_MONTH
             }
             period = period_map.get(self.xhs_period_var.get(), MonitorPeriod.ONE_WEEK)
-            
+
         except ValueError as e:
             messagebox.showerror("错误", f"配置错误：{e}")
             return
-        
+
         # 检查账号
         if not self.xhs_account_manager.accounts_file.exists():
             if not messagebox.askyesno("确认", "未检测到账号配置，是否现在添加？"):

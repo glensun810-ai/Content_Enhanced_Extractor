@@ -1,14 +1,25 @@
 accounts:
 - account_id: acc_003
-  consecutive_failures: 0
-  created_at: '2026-02-17T03:26:42.177921'
-  last_error: ''
-  last_used_at: '2026-02-17T03:26:44.697049'
-  notes: 测试账号3
-  password_encrypted: encrypted
-  phone: ''
-  status: active
-  total_searches: 1
-  username: '13800138002'
-created_at: '2026-02-17T04:37:04.518372'
+  consecutive_failures: 4
+  created_at: '2026-02-17T05:38:14.947181'
+  last_error: 登录失败
+  last_used_at: ''
+  notes: AI产业集群
+  password_encrypted: Z0FBQUFBQnBrNDVHZFk1UkJZN0JvdmpWN3ptdlRGSTBmaVNWVHVoNEUzNHFiYmNkNVNObGpFUzE0U2JRMW1oc1Y4UF8yUllGRUp1S1hqcGpJcVlJV2lybzQ2XzNLOHJuaUE9PQ==
+  phone: '18718528592'
+  status: suspicious
+  total_searches: 0
+  username: '18718528592'
+- account_id: acc_002
+  consecutive_failures: 4
+  created_at: '2026-02-17T05:37:42.378184'
+  last_error: 登录失败
+  last_used_at: ''
+  notes: 创业摆渡人
+  password_encrypted: Z0FBQUFBQnBrNDRtVHBTU1QxaXVZS3BqWWZhTWE1Ny1tUncxUVlnZ0IzckZZWUJfSWw0clh1Y1ZHbXJqNlZSaEw2VE9uVkFjVzdXTlhFWlZTM0t6RjRXZ09jSDliM1E1Qmc9PQ==
+  phone: '18718052868'
+  status: suspicious
+  total_searches: 0
+  username: '18718052868'
+created_at: '2026-02-17T05:44:22.531105'
 version: '1.0'
