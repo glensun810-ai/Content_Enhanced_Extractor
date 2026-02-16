@@ -1,0 +1,14 @@
+accounts:
+- account_id: acc_003
+  consecutive_failures: 0
+  created_at: '2026-02-17T03:26:42.177921'
+  last_error: ''
+  last_used_at: '2026-02-17T03:26:44.697049'
+  notes: 测试账号3
+  password_encrypted: encrypted
+  phone: ''
+  status: active
+  total_searches: 1
+  username: '13800138002'
+created_at: '2026-02-17T04:37:04.518372'
+version: '1.0'

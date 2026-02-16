@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>1️⃣ 通用/图标/对勾/线性</title>
+    <defs>
+        <linearGradient x1="50%" y1="39.2910862%" x2="3.2359598%" y2="39.2910862%" id="linearGradient-1">
+            <stop stop-color="#00DFFF" offset="0%"></stop>
+            <stop stop-color="#0088FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="1️⃣-通用/图标/对勾/线性" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="check-line">
+            <polygon id="路径" points="0 0 48 0 48 48 0 48"></polygon>
+            <polygon id="路径" fill="url(#linearGradient-1)" fill-rule="nonzero" points="20 30.344 38.384 11.958 41.214 14.786 20 36 7.272 23.272 10.1 20.444"></polygon>
+        </g>
+    </g>
+</svg>

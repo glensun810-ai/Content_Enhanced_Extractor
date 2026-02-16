@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="33px" viewBox="0 0 32 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>1️⃣ 通用/图标/箭头-小</title>
+    <g id="定稿" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="4解决方案-园区招商" transform="translate(-896, -4040)">
+            <g id="编组-4" transform="translate(884, 4029)">
+                <g id="1️⃣-通用/图标/箭头-小" transform="translate(12.2857, 11.5)">
+                    <g id="arrow-down-s-line" transform="translate(15.7143, 16) rotate(-270) translate(-15.7143, -16)translate(-0.2857, 0.2857)">
+                        <polygon id="路径" points="0 0 32 0 32 31.4285714 0 31.4285714"></polygon>
+                        <polygon id="路径" fill="#FFFFFF" points="16 17.2490476 22.6 10.7669048 24.4853333 12.6185714 16 20.952381 7.51466667 12.6185714 9.4 10.7669048"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

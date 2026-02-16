@@ -1,0 +1,21 @@
+Multimodal Website Content Extraction Report
+Base URL: https://www.aidso.com/pay
+Extraction Date: 2026-02-09 11:42:59
+Number of Pages Processed: 1
+================================================================================
+
+PAGE: https://www.aidso.com/pay
+================================================================================
+TITLE: AIDSO爱搜-SEO搜索优化大数据分析平台
+
+STRUCTURAL INFORMATION:
+  Tag counts: {'html': 1, 'head': 1, 'meta': 11, 'link': 103, 'title': 1, 'body': 1, 'noscript': 1, 'strong': 1, 'div': 1}
+  Classes used: []
+  IDs used: ['app']
+
+================================================================================
+
+
+SUMMARY:
+- Total pages processed: 1
+- Total images extracted: 0

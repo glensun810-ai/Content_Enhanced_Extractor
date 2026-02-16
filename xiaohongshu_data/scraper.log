@@ -1,0 +1,1156 @@
+2026-02-07 16:38:39,282 - INFO - Starting scrape for keyword: GEO服务
+2026-02-07 16:38:39,282 - INFO - Searching for posts with keyword: GEO服务
+2026-02-07 16:38:43,357 - INFO - Found 22 posts for keyword: GEO服务
+2026-02-07 16:38:43,358 - INFO - Fetching details for post: mock_post_id_0
+2026-02-07 16:38:47,169 - INFO - Fetching comments for post: mock_post_id_0
+2026-02-07 16:38:51,655 - INFO - Fetched 13 comments for post: mock_post_id_0
+2026-02-07 16:38:56,107 - INFO - Fetching details for post: mock_post_id_1
+2026-02-07 16:38:58,495 - INFO - Fetching comments for post: mock_post_id_1
+2026-02-07 16:39:01,281 - INFO - Fetched 20 comments for post: mock_post_id_1
+2026-02-07 16:39:05,065 - INFO - Fetching details for post: mock_post_id_2
+2026-02-07 16:39:08,075 - INFO - Fetching comments for post: mock_post_id_2
+2026-02-07 16:39:12,438 - INFO - Fetched 10 comments for post: mock_post_id_2
+2026-02-07 16:39:14,588 - INFO - Fetching details for post: mock_post_id_3
+2026-02-07 16:39:18,822 - INFO - Fetching comments for post: mock_post_id_3
+2026-02-07 16:39:22,470 - INFO - Fetched 14 comments for post: mock_post_id_3
+2026-02-07 16:39:26,851 - INFO - Fetching details for post: mock_post_id_4
+2026-02-07 16:39:31,453 - INFO - Fetching comments for post: mock_post_id_4
+2026-02-07 16:39:34,361 - INFO - Fetched 22 comments for post: mock_post_id_4
+2026-02-07 16:39:38,294 - INFO - Fetching details for post: mock_post_id_5
+2026-02-07 16:39:41,805 - INFO - Fetching comments for post: mock_post_id_5
+2026-02-07 16:39:46,634 - INFO - Fetched 19 comments for post: mock_post_id_5
+2026-02-07 16:39:50,703 - INFO - Fetching details for post: mock_post_id_6
+2026-02-07 16:39:54,225 - INFO - Fetching comments for post: mock_post_id_6
+2026-02-07 16:39:58,204 - INFO - Fetched 24 comments for post: mock_post_id_6
+2026-02-07 16:40:02,659 - INFO - Fetching details for post: mock_post_id_7
+2026-02-07 16:40:05,827 - INFO - Fetching comments for post: mock_post_id_7
+2026-02-07 16:40:08,317 - INFO - Fetched 21 comments for post: mock_post_id_7
+2026-02-07 16:40:11,375 - INFO - Fetching details for post: mock_post_id_8
+2026-02-07 16:40:14,031 - INFO - Fetching comments for post: mock_post_id_8
+2026-02-07 16:40:18,134 - INFO - Fetched 5 comments for post: mock_post_id_8
+2026-02-07 16:40:21,964 - INFO - Fetching details for post: mock_post_id_9
+2026-02-07 16:40:24,310 - INFO - Fetching comments for post: mock_post_id_9
+2026-02-07 16:40:27,403 - INFO - Fetched 5 comments for post: mock_post_id_9
+2026-02-07 16:40:31,363 - INFO - Fetching details for post: mock_post_id_10
+2026-02-07 16:40:36,480 - INFO - Fetching comments for post: mock_post_id_10
+2026-02-07 16:40:41,632 - INFO - Fetched 10 comments for post: mock_post_id_10
+2026-02-07 16:40:46,138 - INFO - Fetching details for post: mock_post_id_11
+2026-02-07 16:40:49,772 - INFO - Fetching comments for post: mock_post_id_11
+2026-02-07 16:40:52,373 - INFO - Fetched 18 comments for post: mock_post_id_11
+2026-02-07 16:40:56,651 - INFO - Fetching details for post: mock_post_id_12
+2026-02-07 16:41:00,494 - INFO - Fetching comments for post: mock_post_id_12
+2026-02-07 16:41:02,849 - INFO - Fetched 20 comments for post: mock_post_id_12
+2026-02-07 16:41:05,757 - INFO - Fetching details for post: mock_post_id_13
+2026-02-07 16:41:08,701 - INFO - Fetching comments for post: mock_post_id_13
+2026-02-07 16:41:10,798 - INFO - Fetched 19 comments for post: mock_post_id_13
+2026-02-07 16:41:14,331 - INFO - Fetching details for post: mock_post_id_14
+2026-02-07 16:41:16,811 - INFO - Fetching comments for post: mock_post_id_14
+2026-02-07 16:41:21,463 - INFO - Fetched 18 comments for post: mock_post_id_14
+2026-02-07 16:41:23,756 - INFO - Fetching details for post: mock_post_id_15
+2026-02-07 16:41:25,837 - INFO - Fetching comments for post: mock_post_id_15
+2026-02-07 16:41:28,598 - INFO - Fetched 18 comments for post: mock_post_id_15
+2026-02-07 16:41:31,586 - INFO - Fetching details for post: mock_post_id_16
+2026-02-07 16:41:36,975 - INFO - Fetching comments for post: mock_post_id_16
+2026-02-07 16:41:40,070 - INFO - Fetched 20 comments for post: mock_post_id_16
+2026-02-07 16:41:43,980 - INFO - Fetching details for post: mock_post_id_17
+2026-02-07 16:41:46,082 - INFO - Fetching comments for post: mock_post_id_17
+2026-02-07 16:41:48,998 - INFO - Fetched 10 comments for post: mock_post_id_17
+2026-02-07 16:41:51,341 - INFO - Fetching details for post: mock_post_id_18
+2026-02-07 16:41:55,319 - INFO - Fetching comments for post: mock_post_id_18
+2026-02-07 16:41:58,044 - INFO - Fetched 23 comments for post: mock_post_id_18
+2026-02-07 16:42:00,696 - INFO - Fetching details for post: mock_post_id_19
+2026-02-07 16:42:02,643 - INFO - Fetching comments for post: mock_post_id_19
+2026-02-07 16:42:05,589 - INFO - Fetched 12 comments for post: mock_post_id_19
+2026-02-07 16:42:08,577 - INFO - Fetching details for post: mock_post_id_20
+2026-02-07 16:42:13,636 - INFO - Fetching comments for post: mock_post_id_20
+2026-02-07 16:42:16,571 - INFO - Fetched 9 comments for post: mock_post_id_20
+2026-02-07 16:42:19,704 - INFO - Fetching details for post: mock_post_id_21
+2026-02-07 16:42:23,845 - INFO - Fetching comments for post: mock_post_id_21
+2026-02-07 16:42:28,207 - INFO - Fetched 12 comments for post: mock_post_id_21
+2026-02-07 16:42:28,214 - INFO - Saved 22 posts for keyword 'GEO服务' to xiaohongshu_data/posts/posts_GEO服务_20260207_164228.json
+2026-02-07 16:42:28,215 - ERROR - pandas not available. Install with: pip install pandas openpyxl
+2026-02-07 16:42:28,215 - WARNING - Could not export to Excel - pandas not installed
+2026-02-07 16:42:28,216 - INFO - Saved search metadata for keyword 'GEO服务' to xiaohongshu_data/searches/search_GEO服务_20260207_164228.json
+2026-02-07 16:42:28,216 - INFO - Scraping completed for keyword: GEO服务. Found 22 posts.
+2026-02-07 19:17:44,722 - INFO - Starting scrape for keyword: GEO优化 with period: 1_week
+2026-02-07 19:17:44,722 - INFO - Searching for posts with keyword: GEO优化
+2026-02-07 19:17:47,670 - INFO - Found 20 posts for keyword: GEO优化
+2026-02-07 19:17:47,670 - INFO - Filtered 20 posts out of 20 for period 1_week
+2026-02-07 19:17:47,670 - INFO - Fetching details for post: mock_post_id_0
+2026-02-07 19:17:50,898 - INFO - Fetching comments for post: mock_post_id_0
+2026-02-07 19:17:53,080 - INFO - Fetched 18 comments for post: mock_post_id_0
+2026-02-07 19:17:55,978 - INFO - Fetching details for post: mock_post_id_1
+2026-02-07 19:18:00,449 - INFO - Fetching comments for post: mock_post_id_1
+2026-02-07 19:18:05,006 - INFO - Fetched 23 comments for post: mock_post_id_1
+2026-02-07 19:18:08,065 - INFO - Fetching details for post: mock_post_id_2
+2026-02-07 19:18:11,450 - INFO - Fetching comments for post: mock_post_id_2
+2026-02-07 19:18:15,505 - INFO - Fetched 10 comments for post: mock_post_id_2
+2026-02-07 19:18:17,931 - INFO - Fetching details for post: mock_post_id_3
+2026-02-07 19:18:22,192 - INFO - Fetching comments for post: mock_post_id_3
+2026-02-07 19:18:24,796 - INFO - Fetched 6 comments for post: mock_post_id_3
+2026-02-07 19:18:29,646 - INFO - Fetching details for post: mock_post_id_4
+2026-02-07 19:18:33,914 - INFO - Fetching comments for post: mock_post_id_4
+2026-02-07 19:18:37,931 - INFO - Fetched 13 comments for post: mock_post_id_4
+2026-02-07 19:18:39,864 - INFO - Fetching details for post: mock_post_id_5
+2026-02-07 19:18:43,157 - INFO - Fetching comments for post: mock_post_id_5
+2026-02-07 19:18:46,569 - INFO - Fetched 9 comments for post: mock_post_id_5
+2026-02-07 19:18:50,123 - INFO - Fetching details for post: mock_post_id_6
+2026-02-07 19:18:54,294 - INFO - Fetching comments for post: mock_post_id_6
+2026-02-07 19:18:57,265 - INFO - Fetched 12 comments for post: mock_post_id_6
+2026-02-07 19:19:00,385 - INFO - Fetching details for post: mock_post_id_7
+2026-02-07 19:19:03,728 - INFO - Fetching comments for post: mock_post_id_7
+2026-02-07 19:19:08,706 - INFO - Fetched 24 comments for post: mock_post_id_7
+2026-02-07 19:19:13,400 - INFO - Fetching details for post: mock_post_id_8
+2026-02-07 19:19:15,111 - INFO - Fetching comments for post: mock_post_id_8
+2026-02-07 19:19:19,388 - INFO - Fetched 7 comments for post: mock_post_id_8
+2026-02-07 19:19:23,483 - INFO - Fetching details for post: mock_post_id_9
+2026-02-07 19:19:27,551 - INFO - Fetching comments for post: mock_post_id_9
+2026-02-07 19:19:31,569 - INFO - Fetched 15 comments for post: mock_post_id_9
+2026-02-07 19:19:36,021 - INFO - Fetching details for post: mock_post_id_10
+2026-02-07 19:19:38,526 - INFO - Fetching comments for post: mock_post_id_10
+2026-02-07 19:19:42,077 - INFO - Fetched 12 comments for post: mock_post_id_10
+2026-02-07 19:19:44,613 - INFO - Fetching details for post: mock_post_id_11
+2026-02-07 19:19:48,387 - INFO - Fetching comments for post: mock_post_id_11
+2026-02-07 19:19:52,085 - INFO - Fetched 5 comments for post: mock_post_id_11
+2026-02-07 19:19:56,653 - INFO - Fetching details for post: mock_post_id_12
+2026-02-07 19:19:58,922 - INFO - Fetching comments for post: mock_post_id_12
+2026-02-07 19:20:02,335 - INFO - Fetched 20 comments for post: mock_post_id_12
+2026-02-07 19:20:06,222 - INFO - Fetching details for post: mock_post_id_13
+2026-02-07 19:20:10,781 - INFO - Fetching comments for post: mock_post_id_13
+2026-02-07 19:20:15,309 - INFO - Fetched 24 comments for post: mock_post_id_13
+2026-02-07 19:20:18,354 - INFO - Fetching details for post: mock_post_id_14
+2026-02-07 19:20:20,412 - INFO - Fetching comments for post: mock_post_id_14
+2026-02-07 19:20:23,481 - INFO - Fetched 21 comments for post: mock_post_id_14
+2026-02-07 19:20:27,120 - INFO - Fetching details for post: mock_post_id_15
+2026-02-07 19:20:31,567 - INFO - Fetching comments for post: mock_post_id_15
+2026-02-07 19:20:34,480 - INFO - Fetched 9 comments for post: mock_post_id_15
+2026-02-07 19:20:38,839 - INFO - Fetching details for post: mock_post_id_16
+2026-02-07 19:20:42,118 - INFO - Fetching comments for post: mock_post_id_16
+2026-02-07 19:20:44,144 - INFO - Fetched 19 comments for post: mock_post_id_16
+2026-02-07 19:20:47,197 - INFO - Fetching details for post: mock_post_id_17
+2026-02-07 19:20:49,107 - INFO - Fetching comments for post: mock_post_id_17
+2026-02-07 19:20:51,787 - INFO - Fetched 15 comments for post: mock_post_id_17
+2026-02-07 19:20:53,430 - INFO - Fetching details for post: mock_post_id_18
+2026-02-07 19:20:56,410 - INFO - Fetching comments for post: mock_post_id_18
+2026-02-07 19:20:58,273 - INFO - Fetched 16 comments for post: mock_post_id_18
+2026-02-07 19:21:02,143 - INFO - Fetching details for post: mock_post_id_19
+2026-02-07 19:21:05,306 - INFO - Fetching comments for post: mock_post_id_19
+2026-02-07 19:21:08,388 - INFO - Fetched 10 comments for post: mock_post_id_19
+2026-02-07 19:21:08,393 - INFO - Saved 20 posts for keyword 'GEO优化' to xiaohongshu_data/posts/posts_GEO优化_20260207_192108.json
+2026-02-07 19:21:08,393 - INFO - Saved search metadata for keyword 'GEO优化' to xiaohongshu_data/searches/search_GEO优化_20260207_192108.json
+2026-02-07 19:21:08,393 - INFO - Scraping completed for keyword: GEO优化. Found 20 posts.
+2026-02-07 19:39:18,976 - INFO - Starting scrape for keyword: GEO优化 with period: 1_week
+2026-02-07 19:39:18,976 - INFO - Searching for posts with keyword: GEO优化
+2026-02-07 19:39:22,023 - INFO - Found 25 posts for keyword: GEO优化
+2026-02-07 19:39:22,024 - INFO - Filtered 25 posts out of 25 for period 1_week
+2026-02-07 19:39:22,024 - INFO - Fetching details for post: mock_post_id_0
+2026-02-07 19:39:24,147 - INFO - Fetching comments for post: mock_post_id_0
+2026-02-07 19:39:26,124 - INFO - Fetched 5 comments for post: mock_post_id_0
+2026-02-07 19:39:30,323 - INFO - Fetching details for post: mock_post_id_1
+2026-02-07 19:39:32,510 - INFO - Fetching comments for post: mock_post_id_1
+2026-02-07 19:39:35,339 - INFO - Fetched 12 comments for post: mock_post_id_1
+2026-02-07 19:39:37,747 - INFO - Fetching details for post: mock_post_id_2
+2026-02-07 19:39:40,943 - INFO - Fetching comments for post: mock_post_id_2
+2026-02-07 19:39:43,557 - INFO - Fetched 5 comments for post: mock_post_id_2
+2026-02-07 19:39:47,103 - INFO - Fetching details for post: mock_post_id_3
+2026-02-07 19:39:49,698 - INFO - Fetching comments for post: mock_post_id_3
+2026-02-07 19:39:52,732 - INFO - Fetched 9 comments for post: mock_post_id_3
+2026-02-07 19:39:56,980 - INFO - Fetching details for post: mock_post_id_4
+2026-02-07 19:39:58,827 - INFO - Fetching comments for post: mock_post_id_4
+2026-02-07 19:40:02,739 - INFO - Fetched 18 comments for post: mock_post_id_4
+2026-02-07 19:40:06,298 - INFO - Fetching details for post: mock_post_id_5
+2026-02-07 19:40:09,306 - INFO - Fetching comments for post: mock_post_id_5
+2026-02-07 19:40:13,323 - INFO - Fetched 19 comments for post: mock_post_id_5
+2026-02-07 19:40:18,146 - INFO - Fetching details for post: mock_post_id_6
+2026-02-07 19:40:22,231 - INFO - Fetching comments for post: mock_post_id_6
+2026-02-07 19:40:25,744 - INFO - Fetched 25 comments for post: mock_post_id_6
+2026-02-07 19:40:29,037 - INFO - Fetching details for post: mock_post_id_7
+2026-02-07 19:40:33,182 - INFO - Fetching comments for post: mock_post_id_7
+2026-02-07 19:40:36,100 - INFO - Fetched 7 comments for post: mock_post_id_7
+2026-02-07 19:40:39,662 - INFO - Fetching details for post: mock_post_id_8
+2026-02-07 19:40:43,783 - INFO - Fetching comments for post: mock_post_id_8
+2026-02-07 19:40:47,155 - INFO - Fetched 19 comments for post: mock_post_id_8
+2026-02-07 19:40:48,696 - INFO - Fetching details for post: mock_post_id_9
+2026-02-07 19:40:52,893 - INFO - Fetching comments for post: mock_post_id_9
+2026-02-07 19:40:55,453 - INFO - Fetched 21 comments for post: mock_post_id_9
+2026-02-07 19:40:59,653 - INFO - Fetching details for post: mock_post_id_10
+2026-02-07 19:41:03,818 - INFO - Fetching comments for post: mock_post_id_10
+2026-02-07 19:41:08,406 - INFO - Fetched 21 comments for post: mock_post_id_10
+2026-02-07 19:41:13,083 - INFO - Fetching details for post: mock_post_id_11
+2026-02-07 19:41:16,275 - INFO - Fetching comments for post: mock_post_id_11
+2026-02-07 19:41:19,792 - INFO - Fetched 20 comments for post: mock_post_id_11
+2026-02-07 19:41:22,938 - INFO - Fetching details for post: mock_post_id_12
+2026-02-07 19:41:25,439 - INFO - Fetching comments for post: mock_post_id_12
+2026-02-07 19:41:28,750 - INFO - Fetched 8 comments for post: mock_post_id_12
+2026-02-07 19:41:33,145 - INFO - Fetching details for post: mock_post_id_13
+2026-02-07 19:41:34,954 - INFO - Fetching comments for post: mock_post_id_13
+2026-02-07 19:41:37,809 - INFO - Fetched 14 comments for post: mock_post_id_13
+2026-02-07 19:41:41,308 - INFO - Fetching details for post: mock_post_id_14
+2026-02-07 19:41:44,596 - INFO - Fetching comments for post: mock_post_id_14
+2026-02-07 19:41:47,704 - INFO - Fetched 10 comments for post: mock_post_id_14
+2026-02-07 19:41:52,176 - INFO - Fetching details for post: mock_post_id_15
+2026-02-07 19:41:56,348 - INFO - Fetching comments for post: mock_post_id_15
+2026-02-07 19:41:59,671 - INFO - Fetched 11 comments for post: mock_post_id_15
+2026-02-07 19:42:01,879 - INFO - Fetching details for post: mock_post_id_16
+2026-02-07 19:42:05,900 - INFO - Fetching comments for post: mock_post_id_16
+2026-02-07 19:42:08,025 - INFO - Fetched 12 comments for post: mock_post_id_16
+2026-02-07 19:42:11,870 - INFO - Fetching details for post: mock_post_id_17
+2026-02-07 19:42:14,210 - INFO - Fetching comments for post: mock_post_id_17
+2026-02-07 19:42:17,740 - INFO - Fetched 16 comments for post: mock_post_id_17
+2026-02-07 19:42:19,531 - INFO - Fetching details for post: mock_post_id_18
+2026-02-07 19:42:21,351 - INFO - Fetching comments for post: mock_post_id_18
+2026-02-07 19:42:25,626 - INFO - Fetched 7 comments for post: mock_post_id_18
+2026-02-07 19:42:30,298 - INFO - Fetching details for post: mock_post_id_19
+2026-02-07 19:42:33,399 - INFO - Fetching comments for post: mock_post_id_19
+2026-02-07 19:42:38,100 - INFO - Fetched 11 comments for post: mock_post_id_19
+2026-02-07 19:42:42,574 - INFO - Fetching details for post: mock_post_id_20
+2026-02-07 19:42:47,148 - INFO - Fetching comments for post: mock_post_id_20
+2026-02-07 19:42:49,807 - INFO - Fetched 25 comments for post: mock_post_id_20
+2026-02-07 19:42:52,381 - INFO - Fetching details for post: mock_post_id_21
+2026-02-07 19:42:55,468 - INFO - Fetching comments for post: mock_post_id_21
+2026-02-07 19:42:57,653 - INFO - Fetched 6 comments for post: mock_post_id_21
+2026-02-07 19:43:00,174 - INFO - Fetching details for post: mock_post_id_22
+2026-02-07 19:43:04,472 - INFO - Fetching comments for post: mock_post_id_22
+2026-02-07 19:43:06,998 - INFO - Fetched 5 comments for post: mock_post_id_22
+2026-02-07 19:43:10,275 - INFO - Fetching details for post: mock_post_id_23
+2026-02-07 19:43:13,006 - INFO - Fetching comments for post: mock_post_id_23
+2026-02-07 19:43:18,086 - INFO - Fetched 19 comments for post: mock_post_id_23
+2026-02-07 19:43:23,038 - INFO - Fetching details for post: mock_post_id_24
+2026-02-07 19:43:27,051 - INFO - Fetching comments for post: mock_post_id_24
+2026-02-07 19:43:29,622 - INFO - Fetched 21 comments for post: mock_post_id_24
+2026-02-07 19:43:29,628 - INFO - Saved 25 posts for keyword 'GEO优化' to xiaohongshu_data/posts/posts_GEO优化_20260207_194329.json
+2026-02-07 19:43:29,628 - INFO - Saved search metadata for keyword 'GEO优化' to xiaohongshu_data/searches/search_GEO优化_20260207_194329.json
+2026-02-07 19:43:29,628 - INFO - Scraping completed for keyword: GEO优化. Found 25 posts.
+2026-02-07 19:43:29,629 - INFO - Starting scrape for keyword: GEO推广 with period: 1_week
+2026-02-07 19:43:29,629 - INFO - Searching for posts with keyword: GEO推广
+2026-02-07 19:43:33,634 - INFO - Found 26 posts for keyword: GEO推广
+2026-02-07 19:43:33,634 - INFO - Filtered 26 posts out of 26 for period 1_week
+2026-02-07 19:43:33,634 - INFO - Fetching details for post: mock_post_id_0
+2026-02-07 19:43:37,797 - INFO - Fetching comments for post: mock_post_id_0
+2026-02-07 19:43:42,133 - INFO - Fetched 7 comments for post: mock_post_id_0
+2026-02-07 19:43:43,868 - INFO - Fetching details for post: mock_post_id_1
+2026-02-07 19:43:48,792 - INFO - Fetching comments for post: mock_post_id_1
+2026-02-07 19:43:53,240 - INFO - Fetched 16 comments for post: mock_post_id_1
+2026-02-07 19:43:56,708 - INFO - Fetching details for post: mock_post_id_2
+2026-02-07 19:43:59,679 - INFO - Fetching comments for post: mock_post_id_2
+2026-02-07 19:44:04,760 - INFO - Fetched 12 comments for post: mock_post_id_2
+2026-02-07 19:44:09,279 - INFO - Fetching details for post: mock_post_id_3
+2026-02-07 19:44:13,504 - INFO - Fetching comments for post: mock_post_id_3
+2026-02-07 19:44:17,151 - INFO - Fetched 17 comments for post: mock_post_id_3
+2026-02-07 19:44:20,020 - INFO - Fetching details for post: mock_post_id_4
+2026-02-07 19:44:22,945 - INFO - Fetching comments for post: mock_post_id_4
+2026-02-07 19:44:28,116 - INFO - Fetched 17 comments for post: mock_post_id_4
+2026-02-07 19:44:32,628 - INFO - Fetching details for post: mock_post_id_5
+2026-02-07 19:44:35,563 - INFO - Fetching comments for post: mock_post_id_5
+2026-02-07 19:44:37,996 - INFO - Fetched 23 comments for post: mock_post_id_5
+2026-02-07 19:44:41,124 - INFO - Fetching details for post: mock_post_id_6
+2026-02-07 19:44:45,471 - INFO - Fetching comments for post: mock_post_id_6
+2026-02-07 19:44:47,575 - INFO - Fetched 21 comments for post: mock_post_id_6
+2026-02-07 19:44:50,793 - INFO - Fetching details for post: mock_post_id_7
+2026-02-07 19:44:53,772 - INFO - Fetching comments for post: mock_post_id_7
+2026-02-07 19:44:58,997 - INFO - Fetched 9 comments for post: mock_post_id_7
+2026-02-07 19:45:01,015 - INFO - Fetching details for post: mock_post_id_8
+2026-02-07 19:45:04,757 - INFO - Fetching comments for post: mock_post_id_8
+2026-02-07 19:45:07,639 - INFO - Fetched 19 comments for post: mock_post_id_8
+2026-02-07 19:45:11,298 - INFO - Fetching details for post: mock_post_id_9
+2026-02-07 19:45:15,316 - INFO - Fetching comments for post: mock_post_id_9
+2026-02-07 19:45:18,466 - INFO - Fetched 13 comments for post: mock_post_id_9
+2026-02-07 19:45:22,972 - INFO - Fetching details for post: mock_post_id_10
+2026-02-07 19:45:25,272 - INFO - Fetching comments for post: mock_post_id_10
+2026-02-07 19:45:28,353 - INFO - Fetched 13 comments for post: mock_post_id_10
+2026-02-07 19:45:29,922 - INFO - Fetching details for post: mock_post_id_11
+2026-02-07 19:45:33,622 - INFO - Fetching comments for post: mock_post_id_11
+2026-02-07 19:45:37,291 - INFO - Fetched 7 comments for post: mock_post_id_11
+2026-02-07 19:45:41,946 - INFO - Fetching details for post: mock_post_id_12
+2026-02-07 19:45:44,459 - INFO - Fetching comments for post: mock_post_id_12
+2026-02-07 19:45:49,121 - INFO - Fetched 18 comments for post: mock_post_id_12
+2026-02-07 19:45:52,425 - INFO - Fetching details for post: mock_post_id_13
+2026-02-07 19:45:57,367 - INFO - Fetching comments for post: mock_post_id_13
+2026-02-07 19:46:01,341 - INFO - Fetched 18 comments for post: mock_post_id_13
+2026-02-07 19:46:04,024 - INFO - Fetching details for post: mock_post_id_14
+2026-02-07 19:46:09,373 - INFO - Fetching comments for post: mock_post_id_14
+2026-02-07 19:46:13,745 - INFO - Fetched 9 comments for post: mock_post_id_14
+2026-02-07 19:46:17,188 - INFO - Fetching details for post: mock_post_id_15
+2026-02-07 19:46:21,877 - INFO - Fetching comments for post: mock_post_id_15
+2026-02-07 19:46:26,998 - INFO - Fetched 15 comments for post: mock_post_id_15
+2026-02-07 19:46:30,112 - INFO - Fetching details for post: mock_post_id_16
+2026-02-07 19:46:33,481 - INFO - Fetching comments for post: mock_post_id_16
+2026-02-07 19:46:38,494 - INFO - Fetched 6 comments for post: mock_post_id_16
+2026-02-07 19:46:42,581 - INFO - Fetching details for post: mock_post_id_17
+2026-02-07 19:46:47,735 - INFO - Fetching comments for post: mock_post_id_17
+2026-02-07 19:46:52,124 - INFO - Fetched 20 comments for post: mock_post_id_17
+2026-02-07 19:46:56,910 - INFO - Fetching details for post: mock_post_id_18
+2026-02-07 19:47:01,918 - INFO - Fetching comments for post: mock_post_id_18
+2026-02-07 19:47:04,020 - INFO - Fetched 8 comments for post: mock_post_id_18
+2026-02-07 19:47:06,674 - INFO - Fetching details for post: mock_post_id_19
+2026-02-07 19:47:09,284 - INFO - Fetching comments for post: mock_post_id_19
+2026-02-07 19:47:13,648 - INFO - Fetched 21 comments for post: mock_post_id_19
+2026-02-07 19:47:16,164 - INFO - Fetching details for post: mock_post_id_20
+2026-02-07 19:47:19,484 - INFO - Fetching comments for post: mock_post_id_20
+2026-02-07 19:47:22,009 - INFO - Fetched 11 comments for post: mock_post_id_20
+2026-02-07 19:47:24,473 - INFO - Fetching details for post: mock_post_id_21
+2026-02-07 19:47:26,612 - INFO - Fetching comments for post: mock_post_id_21
+2026-02-07 19:47:28,839 - INFO - Fetched 11 comments for post: mock_post_id_21
+2026-02-07 19:47:31,639 - INFO - Fetching details for post: mock_post_id_22
+2026-02-07 19:47:35,451 - INFO - Fetching comments for post: mock_post_id_22
+2026-02-07 19:47:40,269 - INFO - Fetched 6 comments for post: mock_post_id_22
+2026-02-07 19:47:44,958 - INFO - Fetching details for post: mock_post_id_23
+2026-02-07 19:47:48,505 - INFO - Fetching comments for post: mock_post_id_23
+2026-02-07 19:47:51,993 - INFO - Fetched 22 comments for post: mock_post_id_23
+2026-02-07 19:47:54,737 - INFO - Fetching details for post: mock_post_id_24
+2026-02-07 19:47:57,645 - INFO - Fetching comments for post: mock_post_id_24
+2026-02-07 19:48:02,590 - INFO - Fetched 24 comments for post: mock_post_id_24
+2026-02-07 19:48:05,167 - INFO - Fetching details for post: mock_post_id_25
+2026-02-07 19:48:08,669 - INFO - Fetching comments for post: mock_post_id_25
+2026-02-07 19:48:12,275 - INFO - Fetched 22 comments for post: mock_post_id_25
+2026-02-07 19:48:12,282 - INFO - Saved 26 posts for keyword 'GEO推广' to xiaohongshu_data/posts/posts_GEO推广_20260207_194812.json
+2026-02-07 19:48:12,282 - INFO - Saved search metadata for keyword 'GEO推广' to xiaohongshu_data/searches/search_GEO推广_20260207_194812.json
+2026-02-07 19:48:12,283 - INFO - Scraping completed for keyword: GEO推广. Found 26 posts.
+2026-02-07 19:48:12,284 - INFO - Starting scrape for keyword: GEO服务 with period: 1_week
+2026-02-07 19:48:12,284 - INFO - Searching for posts with keyword: GEO服务
+2026-02-07 19:48:14,943 - INFO - Found 12 posts for keyword: GEO服务
+2026-02-07 19:48:14,943 - INFO - Filtered 12 posts out of 12 for period 1_week
+2026-02-07 19:48:14,943 - INFO - Fetching details for post: mock_post_id_0
+2026-02-07 19:48:18,926 - INFO - Fetching comments for post: mock_post_id_0
+2026-02-07 19:48:22,338 - INFO - Fetched 9 comments for post: mock_post_id_0
+2026-02-07 19:48:26,404 - INFO - Fetching details for post: mock_post_id_1
+2026-02-07 19:48:31,243 - INFO - Fetching comments for post: mock_post_id_1
+2026-02-07 19:48:33,792 - INFO - Fetched 22 comments for post: mock_post_id_1
+2026-02-07 19:48:36,588 - INFO - Fetching details for post: mock_post_id_2
+2026-02-07 19:48:41,021 - INFO - Fetching comments for post: mock_post_id_2
+2026-02-07 19:48:42,809 - INFO - Fetched 11 comments for post: mock_post_id_2
+2026-02-07 19:48:46,157 - INFO - Fetching details for post: mock_post_id_3
+2026-02-07 19:48:49,320 - INFO - Fetching comments for post: mock_post_id_3
+2026-02-07 19:48:52,752 - INFO - Fetched 11 comments for post: mock_post_id_3
+2026-02-07 19:48:56,078 - INFO - Fetching details for post: mock_post_id_4
+2026-02-07 19:48:58,902 - INFO - Fetching comments for post: mock_post_id_4
+2026-02-07 19:49:01,897 - INFO - Fetched 18 comments for post: mock_post_id_4
+2026-02-07 19:49:03,942 - INFO - Fetching details for post: mock_post_id_5
+2026-02-07 19:49:08,184 - INFO - Fetching comments for post: mock_post_id_5
+2026-02-07 19:49:12,125 - INFO - Fetched 8 comments for post: mock_post_id_5
+2026-02-07 19:49:14,956 - INFO - Fetching details for post: mock_post_id_6
+2026-02-07 19:49:19,312 - INFO - Fetching comments for post: mock_post_id_6
+2026-02-07 19:49:24,050 - INFO - Fetched 24 comments for post: mock_post_id_6
+2026-02-07 19:49:28,281 - INFO - Fetching details for post: mock_post_id_7
+2026-02-07 19:49:30,815 - INFO - Fetching comments for post: mock_post_id_7
+2026-02-07 19:49:33,061 - INFO - Fetched 9 comments for post: mock_post_id_7
+2026-02-07 19:49:36,815 - INFO - Fetching details for post: mock_post_id_8
+2026-02-07 19:49:40,292 - INFO - Fetching comments for post: mock_post_id_8
+2026-02-07 19:49:45,120 - INFO - Fetched 22 comments for post: mock_post_id_8
+2026-02-07 19:49:48,061 - INFO - Fetching details for post: mock_post_id_9
+2026-02-07 19:49:50,293 - INFO - Fetching comments for post: mock_post_id_9
+2026-02-07 19:49:52,698 - INFO - Fetched 11 comments for post: mock_post_id_9
+2026-02-07 19:49:56,936 - INFO - Fetching details for post: mock_post_id_10
+2026-02-07 19:49:59,845 - INFO - Fetching comments for post: mock_post_id_10
+2026-02-07 19:50:04,766 - INFO - Fetched 24 comments for post: mock_post_id_10
+2026-02-07 19:50:07,944 - INFO - Fetching details for post: mock_post_id_11
+2026-02-07 19:50:11,994 - INFO - Fetching comments for post: mock_post_id_11
+2026-02-07 19:50:15,681 - INFO - Fetched 13 comments for post: mock_post_id_11
+2026-02-07 19:50:15,684 - INFO - Saved 12 posts for keyword 'GEO服务' to xiaohongshu_data/posts/posts_GEO服务_20260207_195015.json
+2026-02-07 19:50:15,685 - INFO - Saved search metadata for keyword 'GEO服务' to xiaohongshu_data/searches/search_GEO服务_20260207_195015.json
+2026-02-07 19:50:15,685 - INFO - Scraping completed for keyword: GEO服务. Found 12 posts.
+2026-02-07 22:17:41,593 - INFO - Starting scrape for keyword: 测试 with period: 1_day
+2026-02-07 22:17:41,593 - INFO - Searching for posts with keyword: 测试
+2026-02-07 22:17:45,596 - INFO - Found 28 posts for keyword: 测试
+2026-02-07 22:17:45,596 - INFO - Filtered 28 posts out of 28 for period 1_day
+2026-02-07 22:17:45,596 - INFO - Fetching details for post: mock_post_id_0
+2026-02-07 22:21:21,513 - INFO - Starting scrape for keyword: AI with period: 1_week
+2026-02-07 22:21:21,514 - INFO - Searching for posts with keyword: AI
+2026-02-07 22:21:25,669 - INFO - Found 12 posts for keyword: AI
+2026-02-07 22:21:25,670 - INFO - Filtered 12 posts out of 12 for period 1_week
+2026-02-07 22:21:25,670 - INFO - Fetching details for post: mock_post_id_0
+2026-02-07 22:21:28,743 - INFO - Fetching comments for post: mock_post_id_0
+2026-02-07 22:21:32,154 - INFO - Fetched 10 comments for post: mock_post_id_0
+2026-02-07 22:21:34,920 - INFO - Fetching details for post: mock_post_id_1
+2026-02-07 22:21:39,894 - INFO - Fetching comments for post: mock_post_id_1
+2026-02-07 22:21:44,332 - INFO - Fetched 5 comments for post: mock_post_id_1
+2026-02-07 22:21:49,216 - INFO - Fetching details for post: mock_post_id_2
+2026-02-07 22:21:53,881 - INFO - Fetching comments for post: mock_post_id_2
+2026-02-07 22:21:56,867 - INFO - Fetched 15 comments for post: mock_post_id_2
+2026-02-07 22:21:58,770 - INFO - Fetching details for post: mock_post_id_3
+2026-02-07 22:22:02,454 - INFO - Fetching comments for post: mock_post_id_3
+2026-02-07 22:22:04,692 - INFO - Fetched 18 comments for post: mock_post_id_3
+2026-02-07 22:22:06,928 - INFO - Fetching details for post: mock_post_id_4
+2026-02-07 22:22:10,911 - INFO - Fetching comments for post: mock_post_id_4
+2026-02-07 22:22:16,094 - INFO - Fetched 13 comments for post: mock_post_id_4
+2026-02-07 22:22:19,779 - INFO - Fetching details for post: mock_post_id_5
+2026-02-07 22:22:24,421 - INFO - Fetching comments for post: mock_post_id_5
+2026-02-07 22:22:29,018 - INFO - Fetched 23 comments for post: mock_post_id_5
+2026-02-07 22:22:31,643 - INFO - Fetching details for post: mock_post_id_6
+2026-02-07 22:22:34,842 - INFO - Starting scrape for keyword: GEO优化 with period: 1_week
+2026-02-07 22:22:34,842 - INFO - Searching for posts with keyword: GEO优化
+2026-02-07 22:22:34,995 - INFO - Fetching comments for post: mock_post_id_6
+2026-02-07 22:22:37,157 - INFO - Found 10 posts for keyword: GEO优化
+2026-02-07 22:22:37,157 - INFO - Filtered 10 posts out of 10 for period 1_week
+2026-02-07 22:22:37,157 - INFO - Fetching details for post: mock_post_id_0
+2026-02-07 22:22:39,054 - INFO - Fetched 5 comments for post: mock_post_id_6
+2026-02-07 22:22:41,526 - INFO - Fetching comments for post: mock_post_id_0
+2026-02-07 22:22:41,927 - INFO - Fetching details for post: mock_post_id_7
+2026-02-07 22:22:44,708 - INFO - Fetched 24 comments for post: mock_post_id_0
+2026-02-07 22:22:46,917 - INFO - Fetching comments for post: mock_post_id_7
+2026-02-07 22:22:48,050 - INFO - Fetching details for post: mock_post_id_1
+2026-02-07 22:22:49,825 - INFO - Fetching comments for post: mock_post_id_1
+2026-02-07 22:22:50,232 - INFO - Fetched 22 comments for post: mock_post_id_7
+2026-02-07 22:22:53,659 - INFO - Fetching details for post: mock_post_id_8
+2026-02-07 22:22:54,450 - INFO - Fetched 14 comments for post: mock_post_id_1
+2026-02-07 22:22:56,431 - INFO - Fetching comments for post: mock_post_id_8
+2026-02-07 22:22:57,688 - INFO - Fetching details for post: mock_post_id_2
+2026-02-07 22:23:00,132 - INFO - Fetching comments for post: mock_post_id_2
+2026-02-07 22:23:00,754 - INFO - Fetched 19 comments for post: mock_post_id_8
+2026-02-07 22:23:03,120 - INFO - Fetched 24 comments for post: mock_post_id_2
+2026-02-07 22:23:04,962 - INFO - Fetching details for post: mock_post_id_9
+2026-02-07 22:23:07,970 - INFO - Fetching details for post: mock_post_id_3
+2026-02-07 22:23:08,314 - INFO - Fetching comments for post: mock_post_id_9
+2026-02-07 22:23:10,650 - INFO - Fetched 15 comments for post: mock_post_id_9
+2026-02-07 22:23:10,749 - INFO - Fetching comments for post: mock_post_id_3
+2026-02-07 22:23:12,776 - INFO - Fetching details for post: mock_post_id_10
+2026-02-07 22:23:13,927 - INFO - Fetched 15 comments for post: mock_post_id_3
+2026-02-07 22:23:15,747 - INFO - Fetching comments for post: mock_post_id_10
+2026-02-07 22:23:16,390 - INFO - Fetching details for post: mock_post_id_4
+2026-02-07 22:23:18,984 - INFO - Fetching comments for post: mock_post_id_4
+2026-02-07 22:23:19,179 - INFO - Fetched 14 comments for post: mock_post_id_10
+2026-02-07 22:23:21,787 - INFO - Fetching details for post: mock_post_id_11
+2026-02-07 22:23:23,732 - INFO - Fetched 17 comments for post: mock_post_id_4
+2026-02-07 22:23:26,204 - INFO - Fetching comments for post: mock_post_id_11
+2026-02-07 22:23:26,374 - INFO - Fetching details for post: mock_post_id_5
+2026-02-07 22:23:28,426 - INFO - Fetching comments for post: mock_post_id_5
+2026-02-07 22:23:31,334 - INFO - Fetched 22 comments for post: mock_post_id_11
+2026-02-07 22:23:31,337 - INFO - Saved 12 posts for keyword 'AI' to xiaohongshu_data/posts/posts_AI_20260207_222331.json
+2026-02-07 22:23:31,337 - INFO - Saved search metadata for keyword 'AI' to xiaohongshu_data/searches/search_AI_20260207_222331.json
+2026-02-07 22:23:31,337 - INFO - Scraping completed for keyword: AI. Found 12 posts.
+2026-02-07 22:23:31,337 - INFO - Starting scrape for keyword: 机器学习 with period: 1_week
+2026-02-07 22:23:31,337 - INFO - Searching for posts with keyword: 机器学习
+2026-02-07 22:23:32,753 - INFO - Fetched 20 comments for post: mock_post_id_5
+2026-02-07 22:23:34,887 - INFO - Found 10 posts for keyword: 机器学习
+2026-02-07 22:23:34,887 - INFO - Filtered 10 posts out of 10 for period 1_week
+2026-02-07 22:23:34,888 - INFO - Fetching details for post: mock_post_id_0
+2026-02-07 22:23:35,669 - INFO - Fetching details for post: mock_post_id_6
+2026-02-07 22:23:39,471 - INFO - Fetching comments for post: mock_post_id_0
+2026-02-07 22:23:39,678 - INFO - Fetching comments for post: mock_post_id_6
+2026-02-07 22:23:41,758 - INFO - Fetched 23 comments for post: mock_post_id_0
+2026-02-07 22:23:42,670 - INFO - Fetched 25 comments for post: mock_post_id_6
+2026-02-07 22:23:43,551 - INFO - Fetching details for post: mock_post_id_1
+2026-02-07 22:23:45,404 - INFO - Fetching comments for post: mock_post_id_1
+2026-02-07 22:23:47,274 - INFO - Fetching details for post: mock_post_id_7
+2026-02-07 22:23:49,898 - INFO - Fetched 22 comments for post: mock_post_id_1
+2026-02-07 22:23:50,248 - INFO - Fetching comments for post: mock_post_id_7
+2026-02-07 22:23:53,497 - INFO - Fetching details for post: mock_post_id_2
+2026-02-07 22:23:54,925 - INFO - Fetched 10 comments for post: mock_post_id_7
+2026-02-07 22:23:58,282 - INFO - Fetching comments for post: mock_post_id_2
+2026-02-07 22:23:58,463 - INFO - Fetching details for post: mock_post_id_8
+2026-02-07 22:24:01,095 - INFO - Fetched 12 comments for post: mock_post_id_2
+2026-02-07 22:24:03,085 - INFO - Fetching comments for post: mock_post_id_8
+2026-02-07 22:24:05,820 - INFO - Fetching details for post: mock_post_id_3
+2026-02-07 22:24:06,676 - INFO - Fetched 6 comments for post: mock_post_id_8
+2026-02-07 22:24:07,887 - INFO - Fetching comments for post: mock_post_id_3
+2026-02-07 22:24:08,320 - INFO - Fetching details for post: mock_post_id_9
+2026-02-07 22:24:10,485 - INFO - Fetched 22 comments for post: mock_post_id_3
+2026-02-07 22:24:12,011 - INFO - Fetching comments for post: mock_post_id_9
+2026-02-07 22:24:14,037 - INFO - Fetching details for post: mock_post_id_4
+2026-02-07 22:24:16,518 - INFO - Fetched 19 comments for post: mock_post_id_9
+2026-02-07 22:24:16,521 - INFO - Saved 10 posts for keyword 'GEO优化' to xiaohongshu_data/posts/posts_GEO优化_20260207_222416.json
+2026-02-07 22:24:16,521 - INFO - Saved search metadata for keyword 'GEO优化' to xiaohongshu_data/searches/search_GEO优化_20260207_222416.json
+2026-02-07 22:24:16,521 - INFO - Scraping completed for keyword: GEO优化. Found 10 posts.
+2026-02-07 22:24:16,522 - INFO - Starting scrape for keyword: GEO推广 with period: 1_week
+2026-02-07 22:24:16,522 - INFO - Searching for posts with keyword: GEO推广
+2026-02-07 22:24:18,506 - INFO - Fetching comments for post: mock_post_id_4
+2026-02-07 22:24:21,126 - INFO - Found 22 posts for keyword: GEO推广
+2026-02-07 22:24:21,126 - INFO - Filtered 22 posts out of 22 for period 1_week
+2026-02-07 22:24:21,126 - INFO - Fetching details for post: mock_post_id_0
+2026-02-07 22:24:22,871 - INFO - Fetched 16 comments for post: mock_post_id_4
+2026-02-07 22:24:25,966 - INFO - Fetching comments for post: mock_post_id_0
+2026-02-07 22:24:27,303 - INFO - Fetching details for post: mock_post_id_5
+2026-02-07 22:24:29,551 - INFO - Fetched 11 comments for post: mock_post_id_0
+2026-02-07 22:24:31,370 - INFO - Fetching details for post: mock_post_id_1
+2026-02-07 22:24:31,392 - INFO - Fetching comments for post: mock_post_id_5
+2026-02-07 22:24:35,260 - INFO - Fetching comments for post: mock_post_id_1
+2026-02-07 22:24:35,332 - INFO - Fetched 16 comments for post: mock_post_id_5
+2026-02-07 22:24:37,215 - INFO - Fetched 20 comments for post: mock_post_id_1
+2026-02-07 22:24:40,117 - INFO - Fetching details for post: mock_post_id_6
+2026-02-07 22:24:41,481 - INFO - Fetching details for post: mock_post_id_2
+2026-02-07 22:24:43,029 - INFO - Fetching comments for post: mock_post_id_6
+2026-02-07 22:24:45,732 - INFO - Fetching comments for post: mock_post_id_2
+2026-02-07 22:24:46,333 - INFO - Fetched 18 comments for post: mock_post_id_6
+2026-02-07 22:24:49,021 - INFO - Fetched 13 comments for post: mock_post_id_2
+2026-02-07 22:24:51,074 - INFO - Fetching details for post: mock_post_id_7
+2026-02-07 22:24:53,198 - INFO - Fetching details for post: mock_post_id_3
+2026-02-07 22:24:54,006 - INFO - Fetching comments for post: mock_post_id_7
+2026-02-07 22:24:56,367 - INFO - Fetching comments for post: mock_post_id_3
+2026-02-07 22:24:56,803 - INFO - Fetched 10 comments for post: mock_post_id_7
+2026-02-07 22:24:59,526 - INFO - Fetching details for post: mock_post_id_8
+2026-02-07 22:25:00,180 - INFO - Fetched 23 comments for post: mock_post_id_3
+2026-02-07 22:25:02,197 - INFO - Fetching details for post: mock_post_id_4
+2026-02-07 22:25:03,380 - INFO - Fetching comments for post: mock_post_id_8
+2026-02-07 22:25:05,574 - INFO - Fetching comments for post: mock_post_id_4
+2026-02-07 22:25:08,309 - INFO - Fetched 21 comments for post: mock_post_id_8
+2026-02-07 22:25:09,747 - INFO - Fetched 10 comments for post: mock_post_id_4
+2026-02-07 22:25:12,148 - INFO - Fetching details for post: mock_post_id_9
+2026-02-07 22:25:13,151 - INFO - Fetching details for post: mock_post_id_5
+2026-02-07 22:25:15,411 - INFO - Fetching comments for post: mock_post_id_5
+2026-02-07 22:25:16,167 - INFO - Fetching comments for post: mock_post_id_9
+2026-02-07 22:25:18,328 - INFO - Fetched 24 comments for post: mock_post_id_5
+2026-02-07 22:25:18,492 - INFO - Fetched 22 comments for post: mock_post_id_9
+2026-02-07 22:25:18,495 - INFO - Saved 10 posts for keyword '机器学习' to xiaohongshu_data/posts/posts_机器学习_20260207_222518.json
+2026-02-07 22:25:18,495 - INFO - Saved search metadata for keyword '机器学习' to xiaohongshu_data/searches/search_机器学习_20260207_222518.json
+2026-02-07 22:25:18,495 - INFO - Scraping completed for keyword: 机器学习. Found 10 posts.
+2026-02-07 22:25:18,496 - INFO - Starting scrape for keyword: 数据分析 with period: 1_week
+2026-02-07 22:25:18,496 - INFO - Searching for posts with keyword: 数据分析
+2026-02-07 22:25:21,281 - INFO - Fetching details for post: mock_post_id_6
+2026-02-07 22:25:22,029 - INFO - Found 26 posts for keyword: 数据分析
+2026-02-07 22:25:22,029 - INFO - Filtered 26 posts out of 26 for period 1_week
+2026-02-07 22:25:22,029 - INFO - Fetching details for post: mock_post_id_0
+2026-02-07 22:25:23,598 - INFO - Fetching comments for post: mock_post_id_6
+2026-02-07 22:25:24,246 - INFO - Fetching comments for post: mock_post_id_0
+2026-02-07 22:25:25,471 - INFO - Fetched 19 comments for post: mock_post_id_6
+2026-02-07 22:25:28,724 - INFO - Fetched 12 comments for post: mock_post_id_0
+2026-02-07 22:25:29,351 - INFO - Fetching details for post: mock_post_id_7
+2026-02-07 22:25:31,308 - INFO - Fetching details for post: mock_post_id_1
+2026-02-07 22:25:33,595 - INFO - Fetching comments for post: mock_post_id_7
+2026-02-07 22:25:33,869 - INFO - Fetching comments for post: mock_post_id_1
+2026-02-07 22:25:36,247 - INFO - Fetched 22 comments for post: mock_post_id_7
+2026-02-07 22:25:38,534 - INFO - Fetching details for post: mock_post_id_8
+2026-02-07 22:25:39,035 - INFO - Fetched 12 comments for post: mock_post_id_1
+2026-02-07 22:25:43,627 - INFO - Fetching comments for post: mock_post_id_8
+2026-02-07 22:25:43,690 - INFO - Fetching details for post: mock_post_id_2
+2026-02-07 22:25:45,894 - INFO - Fetching comments for post: mock_post_id_2
+2026-02-07 22:25:45,895 - INFO - Fetched 23 comments for post: mock_post_id_8
+2026-02-07 22:25:50,451 - INFO - Fetched 18 comments for post: mock_post_id_2
+2026-02-07 22:25:51,121 - INFO - Fetching details for post: mock_post_id_9
+2026-02-07 22:25:54,171 - INFO - Fetching comments for post: mock_post_id_9
+2026-02-07 22:25:55,275 - INFO - Fetching details for post: mock_post_id_3
+2026-02-07 22:25:56,969 - INFO - Fetched 7 comments for post: mock_post_id_9
+2026-02-07 22:25:58,002 - INFO - Fetching comments for post: mock_post_id_3
+2026-02-07 22:26:00,872 - INFO - Fetched 22 comments for post: mock_post_id_3
+2026-02-07 22:26:01,079 - INFO - Fetching details for post: mock_post_id_10
+2026-02-07 22:26:03,411 - INFO - Fetching comments for post: mock_post_id_10
+2026-02-07 22:26:05,129 - INFO - Fetching details for post: mock_post_id_4
+2026-02-07 22:26:06,811 - INFO - Fetched 16 comments for post: mock_post_id_10
+2026-02-07 22:26:08,549 - INFO - Fetching comments for post: mock_post_id_4
+2026-02-07 22:26:11,841 - INFO - Fetching details for post: mock_post_id_11
+2026-02-07 22:26:13,378 - INFO - Fetched 18 comments for post: mock_post_id_4
+2026-02-07 22:26:15,123 - INFO - Fetching comments for post: mock_post_id_11
+2026-02-07 22:26:18,048 - INFO - Fetching details for post: mock_post_id_5
+2026-02-07 22:26:18,800 - INFO - Fetched 21 comments for post: mock_post_id_11
+2026-02-07 22:26:20,394 - INFO - Fetching comments for post: mock_post_id_5
+2026-02-07 22:26:23,186 - INFO - Fetching details for post: mock_post_id_12
+2026-02-07 22:26:23,638 - INFO - Fetched 21 comments for post: mock_post_id_5
+2026-02-07 22:26:25,822 - INFO - Fetching comments for post: mock_post_id_12
+2026-02-07 22:26:26,302 - INFO - Fetching details for post: mock_post_id_6
+2026-02-07 22:26:29,440 - INFO - Fetched 6 comments for post: mock_post_id_12
+2026-02-07 22:26:30,306 - INFO - Fetching comments for post: mock_post_id_6
+2026-02-07 22:26:31,558 - INFO - Fetching details for post: mock_post_id_13
+2026-02-07 22:26:33,427 - INFO - Fetched 22 comments for post: mock_post_id_6
+2026-02-07 22:26:33,525 - INFO - Fetching comments for post: mock_post_id_13
+2026-02-07 22:26:37,293 - INFO - Fetching details for post: mock_post_id_7
+2026-02-07 22:26:37,310 - INFO - Fetched 20 comments for post: mock_post_id_13
+2026-02-07 22:26:40,317 - INFO - Fetching details for post: mock_post_id_14
+2026-02-07 22:26:41,852 - INFO - Fetching comments for post: mock_post_id_7
+2026-02-07 22:26:45,104 - INFO - Fetching comments for post: mock_post_id_14
+2026-02-07 22:26:46,776 - INFO - Fetched 8 comments for post: mock_post_id_7
+2026-02-07 22:26:48,936 - INFO - Fetched 15 comments for post: mock_post_id_14
+2026-02-07 22:26:51,546 - INFO - Fetching details for post: mock_post_id_8
+2026-02-07 22:26:51,951 - INFO - Fetching details for post: mock_post_id_15
+2026-02-07 22:26:53,827 - INFO - Fetching comments for post: mock_post_id_15
+2026-02-07 22:26:56,508 - INFO - Fetching comments for post: mock_post_id_8
+2026-02-07 22:26:57,957 - INFO - Fetched 22 comments for post: mock_post_id_15
+2026-02-07 22:26:59,406 - INFO - Fetched 11 comments for post: mock_post_id_8
+2026-02-07 22:26:59,797 - INFO - Fetching details for post: mock_post_id_16
+2026-02-07 22:27:02,913 - INFO - Fetching comments for post: mock_post_id_16
+2026-02-07 22:27:03,047 - INFO - Fetching details for post: mock_post_id_9
+2026-02-07 22:27:05,675 - INFO - Fetching comments for post: mock_post_id_9
+2026-02-07 22:27:07,004 - INFO - Fetched 9 comments for post: mock_post_id_16
+2026-02-07 22:27:09,062 - INFO - Fetching details for post: mock_post_id_17
+2026-02-07 22:27:10,733 - INFO - Fetched 7 comments for post: mock_post_id_9
+2026-02-07 22:27:11,049 - INFO - Fetching comments for post: mock_post_id_17
+2026-02-07 22:27:14,541 - INFO - Fetched 13 comments for post: mock_post_id_17
+2026-02-07 22:27:14,719 - INFO - Fetching details for post: mock_post_id_10
+2026-02-07 22:27:17,630 - INFO - Fetching comments for post: mock_post_id_10
+2026-02-07 22:27:18,407 - INFO - Fetching details for post: mock_post_id_18
+2026-02-07 22:27:20,833 - INFO - Fetched 21 comments for post: mock_post_id_10
+2026-02-07 22:27:23,309 - INFO - Fetching comments for post: mock_post_id_18
+2026-02-07 22:27:24,112 - INFO - Fetching details for post: mock_post_id_11
+2026-02-07 22:27:26,892 - INFO - Fetching comments for post: mock_post_id_11
+2026-02-07 22:27:27,101 - INFO - Fetched 9 comments for post: mock_post_id_18
+2026-02-07 22:27:30,709 - INFO - Fetched 18 comments for post: mock_post_id_11
+2026-02-07 22:27:30,816 - INFO - Fetching details for post: mock_post_id_19
+2026-02-07 22:27:34,345 - INFO - Fetching comments for post: mock_post_id_19
+2026-02-07 22:27:35,582 - INFO - Fetching details for post: mock_post_id_12
+2026-02-07 22:27:36,646 - INFO - Fetched 9 comments for post: mock_post_id_19
+2026-02-07 22:27:39,022 - INFO - Fetching comments for post: mock_post_id_12
+2026-02-07 22:27:41,607 - INFO - Fetched 12 comments for post: mock_post_id_12
+2026-02-07 22:27:41,950 - INFO - Saved 20 posts for keyword 'GEO推广' to xiaohongshu_data/posts/posts_GEO推广_20260207_222741.json
+2026-02-07 22:27:41,950 - INFO - Saved search metadata for keyword 'GEO推广' to xiaohongshu_data/searches/search_GEO推广_20260207_222741.json
+2026-02-07 22:27:41,950 - INFO - Scraping completed for keyword: GEO推广. Found 20 posts.
+2026-02-07 22:27:41,959 - INFO - Starting scrape for keyword: GEO服务 with period: 1_week
+2026-02-07 22:27:41,959 - INFO - Searching for posts with keyword: GEO服务
+2026-02-07 22:27:45,727 - INFO - Found 19 posts for keyword: GEO服务
+2026-02-07 22:27:45,728 - INFO - Filtered 19 posts out of 19 for period 1_week
+2026-02-07 22:27:45,728 - INFO - Fetching details for post: mock_post_id_0
+2026-02-07 22:27:45,753 - INFO - Fetching details for post: mock_post_id_13
+2026-02-07 22:27:50,185 - INFO - Fetching comments for post: mock_post_id_13
+2026-02-07 22:27:50,818 - INFO - Fetching comments for post: mock_post_id_0
+2026-02-07 22:27:52,073 - INFO - Fetched 14 comments for post: mock_post_id_13
+2026-02-07 22:27:55,279 - INFO - Fetched 21 comments for post: mock_post_id_0
+2026-02-07 22:27:56,097 - INFO - Fetching details for post: mock_post_id_14
+2026-02-07 22:27:59,704 - INFO - Fetching details for post: mock_post_id_1
+2026-02-07 22:28:00,413 - INFO - Fetching comments for post: mock_post_id_14
+2026-02-07 22:28:02,108 - INFO - Fetching comments for post: mock_post_id_1
+2026-02-07 22:28:02,876 - INFO - Fetched 11 comments for post: mock_post_id_14
+2026-02-07 22:28:05,718 - INFO - Fetched 14 comments for post: mock_post_id_1
+2026-02-07 22:28:07,310 - INFO - Fetching details for post: mock_post_id_15
+2026-02-07 22:28:10,080 - INFO - Fetching details for post: mock_post_id_2
+2026-02-07 22:28:11,336 - INFO - Fetching comments for post: mock_post_id_15
+2026-02-07 22:28:13,712 - INFO - Fetching comments for post: mock_post_id_2
+2026-02-07 22:28:16,244 - INFO - Fetched 17 comments for post: mock_post_id_15
+2026-02-07 22:28:16,998 - INFO - Fetched 12 comments for post: mock_post_id_2
+2026-02-07 22:28:18,623 - INFO - Fetching details for post: mock_post_id_16
+2026-02-07 22:28:19,611 - INFO - Fetching details for post: mock_post_id_3
+2026-02-07 22:28:23,216 - INFO - Fetching comments for post: mock_post_id_16
+2026-02-07 22:28:23,873 - INFO - Fetching comments for post: mock_post_id_3
+2026-02-07 22:28:26,677 - INFO - Fetched 20 comments for post: mock_post_id_3
+2026-02-07 22:28:27,639 - INFO - Fetched 13 comments for post: mock_post_id_16
+2026-02-07 22:28:32,020 - INFO - Fetching details for post: mock_post_id_4
+2026-02-07 22:28:32,189 - INFO - Fetching details for post: mock_post_id_17
+2026-02-07 22:28:34,448 - INFO - Fetching comments for post: mock_post_id_17
+2026-02-07 22:28:34,674 - INFO - Fetching comments for post: mock_post_id_4
+2026-02-07 22:28:38,325 - INFO - Fetched 16 comments for post: mock_post_id_17
+2026-02-07 22:28:38,661 - INFO - Fetched 15 comments for post: mock_post_id_4
+2026-02-07 22:28:40,676 - INFO - Fetching details for post: mock_post_id_18
+2026-02-07 22:28:42,963 - INFO - Fetching details for post: mock_post_id_5
+2026-02-07 22:28:43,954 - INFO - Fetching comments for post: mock_post_id_18
+2026-02-07 22:28:47,375 - INFO - Fetching comments for post: mock_post_id_5
+2026-02-07 22:28:47,735 - INFO - Fetched 23 comments for post: mock_post_id_18
+2026-02-07 22:28:50,408 - INFO - Fetching details for post: mock_post_id_19
+2026-02-07 22:28:50,807 - INFO - Fetched 12 comments for post: mock_post_id_5
+2026-02-07 22:28:52,301 - INFO - Fetching comments for post: mock_post_id_19
+2026-02-07 22:28:52,852 - INFO - Fetching details for post: mock_post_id_6
+2026-02-07 22:28:55,396 - INFO - Fetched 11 comments for post: mock_post_id_19
+2026-02-07 22:28:57,090 - INFO - Fetching comments for post: mock_post_id_6
+2026-02-07 22:28:58,246 - INFO - Saved 20 posts for keyword '数据分析' to xiaohongshu_data/posts/posts_数据分析_20260207_222858.json
+2026-02-07 22:28:58,247 - INFO - Saved search metadata for keyword '数据分析' to xiaohongshu_data/searches/search_数据分析_20260207_222858.json
+2026-02-07 22:28:58,247 - INFO - Scraping completed for keyword: 数据分析. Found 20 posts.
+2026-02-07 22:29:01,957 - INFO - Fetched 21 comments for post: mock_post_id_6
+2026-02-07 22:29:06,431 - INFO - Fetching details for post: mock_post_id_7
+2026-02-07 22:29:11,173 - INFO - Fetching comments for post: mock_post_id_7
+2026-02-07 22:29:13,733 - INFO - Fetched 13 comments for post: mock_post_id_7
+2026-02-07 22:29:16,936 - INFO - Fetching details for post: mock_post_id_8
+2026-02-07 22:29:21,620 - INFO - Fetching comments for post: mock_post_id_8
+2026-02-07 22:29:23,825 - INFO - Fetched 12 comments for post: mock_post_id_8
+2026-02-07 22:29:27,016 - INFO - Fetching details for post: mock_post_id_9
+2026-02-07 22:29:30,213 - INFO - Fetching comments for post: mock_post_id_9
+2026-02-07 22:29:32,589 - INFO - Fetched 14 comments for post: mock_post_id_9
+2026-02-07 22:29:34,709 - INFO - Fetching details for post: mock_post_id_10
+2026-02-07 22:29:37,107 - INFO - Fetching comments for post: mock_post_id_10
+2026-02-07 22:29:39,999 - INFO - Fetched 24 comments for post: mock_post_id_10
+2026-02-07 22:29:44,284 - INFO - Fetching details for post: mock_post_id_11
+2026-02-07 22:29:49,196 - INFO - Fetching comments for post: mock_post_id_11
+2026-02-07 22:29:52,344 - INFO - Fetched 17 comments for post: mock_post_id_11
+2026-02-07 22:29:55,512 - INFO - Fetching details for post: mock_post_id_12
+2026-02-07 22:29:59,036 - INFO - Fetching comments for post: mock_post_id_12
+2026-02-07 22:30:03,031 - INFO - Fetched 18 comments for post: mock_post_id_12
+2026-02-07 22:30:06,984 - INFO - Fetching details for post: mock_post_id_13
+2026-02-07 22:30:11,621 - INFO - Fetching comments for post: mock_post_id_13
+2026-02-07 22:30:16,406 - INFO - Fetched 11 comments for post: mock_post_id_13
+2026-02-07 22:30:19,628 - INFO - Fetching details for post: mock_post_id_14
+2026-02-07 22:30:23,486 - INFO - Fetching comments for post: mock_post_id_14
+2026-02-07 22:30:26,075 - INFO - Fetched 16 comments for post: mock_post_id_14
+2026-02-07 22:30:30,306 - INFO - Fetching details for post: mock_post_id_15
+2026-02-07 22:30:33,432 - INFO - Fetching comments for post: mock_post_id_15
+2026-02-07 22:30:38,121 - INFO - Fetched 5 comments for post: mock_post_id_15
+2026-02-07 22:30:41,196 - INFO - Fetching details for post: mock_post_id_16
+2026-02-07 22:30:43,156 - INFO - Fetching comments for post: mock_post_id_16
+2026-02-07 22:30:45,252 - INFO - Fetched 9 comments for post: mock_post_id_16
+2026-02-07 22:30:49,346 - INFO - Fetching details for post: mock_post_id_17
+2026-02-07 22:30:53,055 - INFO - Fetching comments for post: mock_post_id_17
+2026-02-07 22:30:57,727 - INFO - Fetched 18 comments for post: mock_post_id_17
+2026-02-07 22:31:01,799 - INFO - Fetching details for post: mock_post_id_18
+2026-02-07 22:31:06,339 - INFO - Fetching comments for post: mock_post_id_18
+2026-02-07 22:31:10,776 - INFO - Fetched 17 comments for post: mock_post_id_18
+2026-02-07 22:31:10,780 - INFO - Saved 19 posts for keyword 'GEO服务' to xiaohongshu_data/posts/posts_GEO服务_20260207_223110.json
+2026-02-07 22:31:10,780 - INFO - Saved search metadata for keyword 'GEO服务' to xiaohongshu_data/searches/search_GEO服务_20260207_223110.json
+2026-02-07 22:31:10,780 - INFO - Scraping completed for keyword: GEO服务. Found 19 posts.
+2026-02-07 22:31:10,781 - INFO - Starting scrape for keyword: 靠谱GEO with period: 1_week
+2026-02-07 22:31:10,781 - INFO - Searching for posts with keyword: 靠谱GEO
+2026-02-07 22:31:13,445 - INFO - Found 17 posts for keyword: 靠谱GEO
+2026-02-07 22:31:13,445 - INFO - Filtered 17 posts out of 17 for period 1_week
+2026-02-07 22:31:13,445 - INFO - Fetching details for post: mock_post_id_0
+2026-02-07 22:31:16,988 - INFO - Fetching comments for post: mock_post_id_0
+2026-02-07 22:31:20,645 - INFO - Fetched 10 comments for post: mock_post_id_0
+2026-02-07 22:31:24,809 - INFO - Fetching details for post: mock_post_id_1
+2026-02-07 22:31:29,585 - INFO - Fetching comments for post: mock_post_id_1
+2026-02-07 22:31:32,247 - INFO - Fetched 25 comments for post: mock_post_id_1
+2026-02-07 22:31:34,515 - INFO - Fetching details for post: mock_post_id_2
+2026-02-07 22:31:38,929 - INFO - Fetching comments for post: mock_post_id_2
+2026-02-07 22:31:41,563 - INFO - Fetched 21 comments for post: mock_post_id_2
+2026-02-07 22:31:45,978 - INFO - Fetching details for post: mock_post_id_3
+2026-02-07 22:31:48,342 - INFO - Fetching comments for post: mock_post_id_3
+2026-02-07 22:31:50,809 - INFO - Fetched 21 comments for post: mock_post_id_3
+2026-02-07 22:31:53,762 - INFO - Fetching details for post: mock_post_id_4
+2026-02-07 22:31:58,874 - INFO - Fetching comments for post: mock_post_id_4
+2026-02-07 22:32:02,558 - INFO - Fetched 11 comments for post: mock_post_id_4
+2026-02-07 22:32:06,308 - INFO - Fetching details for post: mock_post_id_5
+2026-02-07 22:32:11,582 - INFO - Fetching comments for post: mock_post_id_5
+2026-02-07 22:32:13,634 - INFO - Fetched 12 comments for post: mock_post_id_5
+2026-02-07 22:32:18,090 - INFO - Fetching details for post: mock_post_id_6
+2026-02-07 22:32:20,817 - INFO - Fetching comments for post: mock_post_id_6
+2026-02-07 22:32:24,872 - INFO - Fetched 24 comments for post: mock_post_id_6
+2026-02-07 22:32:27,121 - INFO - Fetching details for post: mock_post_id_7
+2026-02-07 22:32:29,727 - INFO - Fetching comments for post: mock_post_id_7
+2026-02-07 22:32:32,859 - INFO - Fetched 8 comments for post: mock_post_id_7
+2026-02-07 22:32:38,148 - INFO - Fetching details for post: mock_post_id_8
+2026-02-07 22:32:41,583 - INFO - Fetching comments for post: mock_post_id_8
+2026-02-07 22:32:45,027 - INFO - Fetched 8 comments for post: mock_post_id_8
+2026-02-07 22:32:48,548 - INFO - Fetching details for post: mock_post_id_9
+2026-02-07 22:32:51,949 - INFO - Fetching comments for post: mock_post_id_9
+2026-02-07 22:32:54,801 - INFO - Fetched 16 comments for post: mock_post_id_9
+2026-02-07 22:32:58,296 - INFO - Fetching details for post: mock_post_id_10
+2026-02-07 22:33:01,141 - INFO - Fetching comments for post: mock_post_id_10
+2026-02-07 22:33:04,525 - INFO - Fetched 9 comments for post: mock_post_id_10
+2026-02-07 22:33:07,751 - INFO - Fetching details for post: mock_post_id_11
+2026-02-07 22:33:10,438 - INFO - Fetching comments for post: mock_post_id_11
+2026-02-07 22:33:13,671 - INFO - Fetched 16 comments for post: mock_post_id_11
+2026-02-07 22:33:16,935 - INFO - Fetching details for post: mock_post_id_12
+2026-02-07 22:33:20,854 - INFO - Fetching comments for post: mock_post_id_12
+2026-02-07 22:33:25,311 - INFO - Fetched 15 comments for post: mock_post_id_12
+2026-02-07 22:33:29,156 - INFO - Fetching details for post: mock_post_id_13
+2026-02-07 22:33:33,462 - INFO - Fetching comments for post: mock_post_id_13
+2026-02-07 22:33:35,814 - INFO - Fetched 17 comments for post: mock_post_id_13
+2026-02-07 22:33:39,492 - INFO - Fetching details for post: mock_post_id_14
+2026-02-07 22:33:42,821 - INFO - Fetching comments for post: mock_post_id_14
+2026-02-07 22:33:45,203 - INFO - Fetched 18 comments for post: mock_post_id_14
+2026-02-07 22:33:50,299 - INFO - Fetching details for post: mock_post_id_15
+2026-02-07 22:33:52,495 - INFO - Fetching comments for post: mock_post_id_15
+2026-02-07 22:33:57,072 - INFO - Fetched 24 comments for post: mock_post_id_15
+2026-02-07 22:34:01,854 - INFO - Fetching details for post: mock_post_id_16
+2026-02-07 22:34:04,580 - INFO - Fetching comments for post: mock_post_id_16
+2026-02-07 22:34:06,497 - INFO - Fetched 7 comments for post: mock_post_id_16
+2026-02-07 22:34:06,502 - INFO - Saved 17 posts for keyword '靠谱GEO' to xiaohongshu_data/posts/posts_靠谱GEO_20260207_223406.json
+2026-02-07 22:34:06,502 - INFO - Saved search metadata for keyword '靠谱GEO' to xiaohongshu_data/searches/search_靠谱GEO_20260207_223406.json
+2026-02-07 22:34:06,502 - INFO - Scraping completed for keyword: 靠谱GEO. Found 17 posts.
+2026-02-07 22:48:50,616 - INFO - Searching for posts with keyword: 护肤
+2026-02-07 22:48:53,151 - INFO - Found 24 posts for keyword: 护肤
+2026-02-07 22:48:53,151 - INFO - Fetching details for post: post_1770475733_000
+2026-02-07 22:49:06,162 - INFO - Starting scrape for keyword: 护肤 with period: 1_day
+2026-02-07 22:49:06,162 - INFO - Searching for posts with keyword: 护肤
+2026-02-07 22:49:12,581 - INFO - Starting scrape for keyword: 护肤 with period: 1_day
+2026-02-07 22:49:12,582 - INFO - Searching for posts with keyword: 护肤
+2026-02-07 22:49:16,852 - INFO - Found 25 posts for keyword: 护肤
+2026-02-07 22:49:16,852 - INFO - Filtered 25 posts out of 25 for period 1_day
+2026-02-07 22:49:16,852 - INFO - Fetching details for post: post_1770475756_000
+2026-02-07 22:49:20,610 - INFO - Fetching comments for post: post_1770475756_000
+2026-02-07 22:54:27,362 - INFO - Starting scrape for keyword: GEO优化 with period: 1_week
+2026-02-07 22:54:27,362 - INFO - Searching for posts with keyword: GEO优化
+2026-02-07 22:54:31,182 - INFO - Found 17 posts for keyword: GEO优化
+2026-02-07 22:54:31,182 - INFO - Filtered 17 posts out of 17 for period 1_week
+2026-02-07 22:54:31,182 - INFO - Fetching details for post: post_1770476071_000
+2026-02-07 22:54:33,416 - INFO - Fetching comments for post: post_1770476071_000
+2026-02-07 22:54:35,696 - INFO - Fetched 19 comments for post: post_1770476071_000
+2026-02-07 22:54:39,554 - INFO - Fetching details for post: post_1770476071_001
+2026-02-07 22:54:41,713 - INFO - Fetching comments for post: post_1770476071_001
+2026-02-07 22:54:44,175 - INFO - Fetched 24 comments for post: post_1770476071_001
+2026-02-07 22:54:46,621 - INFO - Fetching details for post: post_1770476071_002
+2026-02-07 22:54:49,189 - INFO - Fetching comments for post: post_1770476071_002
+2026-02-07 22:54:53,118 - INFO - Fetched 5 comments for post: post_1770476071_002
+2026-02-07 22:54:58,208 - INFO - Fetching details for post: post_1770476071_003
+2026-02-07 22:55:02,094 - INFO - Fetching comments for post: post_1770476071_003
+2026-02-07 22:55:06,398 - INFO - Fetched 7 comments for post: post_1770476071_003
+2026-02-07 22:55:10,419 - INFO - Fetching details for post: post_1770476071_004
+2026-02-07 22:55:14,272 - INFO - Fetching comments for post: post_1770476071_004
+2026-02-07 22:55:17,654 - INFO - Fetched 8 comments for post: post_1770476071_004
+2026-02-07 22:55:20,212 - INFO - Fetching details for post: post_1770476071_005
+2026-02-07 22:55:22,655 - INFO - Fetching comments for post: post_1770476071_005
+2026-02-07 22:55:27,026 - INFO - Fetched 9 comments for post: post_1770476071_005
+2026-02-07 22:55:30,124 - INFO - Fetching details for post: post_1770476071_006
+2026-02-07 22:55:33,372 - INFO - Fetching comments for post: post_1770476071_006
+2026-02-07 22:55:36,483 - INFO - Fetched 18 comments for post: post_1770476071_006
+2026-02-07 22:55:39,989 - INFO - Fetching details for post: post_1770476071_007
+2026-02-07 22:55:44,497 - INFO - Fetching comments for post: post_1770476071_007
+2026-02-07 22:55:48,558 - INFO - Fetched 10 comments for post: post_1770476071_007
+2026-02-07 22:55:51,157 - INFO - Fetching details for post: post_1770476071_008
+2026-02-07 22:55:55,206 - INFO - Fetching comments for post: post_1770476071_008
+2026-02-07 22:55:58,804 - INFO - Fetched 22 comments for post: post_1770476071_008
+2026-02-07 22:56:02,161 - INFO - Fetching details for post: post_1770476071_009
+2026-02-07 22:56:05,640 - INFO - Fetching comments for post: post_1770476071_009
+2026-02-07 22:56:08,429 - INFO - Fetched 9 comments for post: post_1770476071_009
+2026-02-07 22:56:13,169 - INFO - Saved 10 posts for keyword 'GEO优化' to xiaohongshu_data/posts/posts_GEO优化_20260207_225613.json
+2026-02-07 22:56:13,170 - INFO - Saved search metadata for keyword 'GEO优化' to xiaohongshu_data/searches/search_GEO优化_20260207_225613.json
+2026-02-07 22:56:13,170 - INFO - Scraping completed for keyword: GEO优化. Found 10 posts.
+2026-02-07 22:56:13,171 - INFO - Starting scrape for keyword: GEO推广 with period: 1_week
+2026-02-07 22:56:13,171 - INFO - Searching for posts with keyword: GEO推广
+2026-02-07 22:56:16,655 - INFO - Found 24 posts for keyword: GEO推广
+2026-02-07 22:56:16,655 - INFO - Filtered 24 posts out of 24 for period 1_week
+2026-02-07 22:56:16,655 - INFO - Fetching details for post: post_1770476176_000
+2026-02-07 22:56:19,783 - INFO - Fetching comments for post: post_1770476176_000
+2026-02-07 22:56:24,737 - INFO - Fetched 22 comments for post: post_1770476176_000
+2026-02-07 22:56:27,019 - INFO - Fetching details for post: post_1770476176_001
+2026-02-07 22:56:30,584 - INFO - Fetching comments for post: post_1770476176_001
+2026-02-07 22:56:32,946 - INFO - Fetched 25 comments for post: post_1770476176_001
+2026-02-07 22:56:36,835 - INFO - Fetching details for post: post_1770476176_002
+2026-02-07 22:56:40,399 - INFO - Fetching comments for post: post_1770476176_002
+2026-02-07 22:56:43,189 - INFO - Fetched 23 comments for post: post_1770476176_002
+2026-02-07 22:56:46,762 - INFO - Fetching details for post: post_1770476176_003
+2026-02-07 22:56:51,354 - INFO - Fetching comments for post: post_1770476176_003
+2026-02-07 22:56:55,907 - INFO - Fetched 14 comments for post: post_1770476176_003
+2026-02-07 22:56:59,815 - INFO - Fetching details for post: post_1770476176_004
+2026-02-07 22:57:04,615 - INFO - Fetching comments for post: post_1770476176_004
+2026-02-07 22:57:06,951 - INFO - Fetched 15 comments for post: post_1770476176_004
+2026-02-07 22:57:10,763 - INFO - Fetching details for post: post_1770476176_005
+2026-02-07 22:57:14,073 - INFO - Fetching comments for post: post_1770476176_005
+2026-02-07 22:57:15,994 - INFO - Fetched 25 comments for post: post_1770476176_005
+2026-02-07 22:57:19,719 - INFO - Fetching details for post: post_1770476176_006
+2026-02-07 22:57:21,504 - INFO - Fetching comments for post: post_1770476176_006
+2026-02-07 22:57:25,109 - INFO - Fetched 12 comments for post: post_1770476176_006
+2026-02-07 22:57:28,238 - INFO - Fetching details for post: post_1770476176_007
+2026-02-07 22:57:32,031 - INFO - Fetching comments for post: post_1770476176_007
+2026-02-07 22:57:34,742 - INFO - Fetched 22 comments for post: post_1770476176_007
+2026-02-07 22:57:39,155 - INFO - Fetching details for post: post_1770476176_008
+2026-02-07 22:57:43,072 - INFO - Fetching comments for post: post_1770476176_008
+2026-02-07 22:57:45,721 - INFO - Fetched 13 comments for post: post_1770476176_008
+2026-02-07 22:57:49,607 - INFO - Fetching details for post: post_1770476176_009
+2026-02-07 22:57:54,609 - INFO - Fetching comments for post: post_1770476176_009
+2026-02-07 22:57:57,540 - INFO - Fetched 20 comments for post: post_1770476176_009
+2026-02-07 22:58:00,793 - INFO - Saved 10 posts for keyword 'GEO推广' to xiaohongshu_data/posts/posts_GEO推广_20260207_225800.json
+2026-02-07 22:58:00,793 - INFO - Saved search metadata for keyword 'GEO推广' to xiaohongshu_data/searches/search_GEO推广_20260207_225800.json
+2026-02-07 22:58:00,793 - INFO - Scraping completed for keyword: GEO推广. Found 10 posts.
+2026-02-07 23:02:15,109 - INFO - Searching for posts with keyword: 护肤
+2026-02-07 23:02:15,109 - INFO - Using real data collector for search
+2026-02-07 23:02:16,764 - INFO - Found 17 posts via real data collector for keyword: 护肤
+2026-02-07 23:02:23,625 - INFO - Starting scrape for keyword: 护肤 with period: 1_day
+2026-02-07 23:02:23,626 - INFO - Searching for posts with keyword: 护肤
+2026-02-07 23:02:23,626 - INFO - Using real data collector for search
+2026-02-07 23:02:25,531 - INFO - Found 20 posts via real data collector for keyword: 护肤
+2026-02-07 23:02:25,531 - INFO - Filtered 1 posts out of 20 for period 1_day
+2026-02-07 23:02:25,531 - INFO - Fetching details for post: xhs_real_1770476545_000
+2026-02-07 23:02:29,804 - INFO - Fetching comments for post: xhs_real_1770476545_000
+2026-02-07 23:07:51,878 - INFO - Starting scrape for keyword: GEO优化 with period: 1_week
+2026-02-07 23:07:51,879 - INFO - Searching for posts with keyword: GEO优化
+2026-02-07 23:07:51,879 - INFO - Using real data collector for search
+2026-02-07 23:07:53,406 - INFO - Found 20 posts via real data collector for keyword: GEO优化
+2026-02-07 23:07:53,406 - INFO - Filtered 20 posts out of 20 for period 1_week
+2026-02-07 23:07:53,406 - INFO - Fetching details for post: xhs_real_1770476873_000
+2026-02-07 23:07:55,851 - INFO - Fetching comments for post: xhs_real_1770476873_000
+2026-02-07 23:08:00,567 - INFO - Fetched 11 comments for post: xhs_real_1770476873_000
+2026-02-07 23:08:03,173 - INFO - Fetching details for post: xhs_real_1770476873_001
+2026-02-07 23:08:06,008 - INFO - Fetching comments for post: xhs_real_1770476873_001
+2026-02-07 23:08:09,158 - INFO - Fetched 16 comments for post: xhs_real_1770476873_001
+2026-02-07 23:08:13,877 - INFO - Fetching details for post: xhs_real_1770476873_002
+2026-02-07 23:08:15,850 - INFO - Fetching comments for post: xhs_real_1770476873_002
+2026-02-07 23:08:18,042 - INFO - Fetched 16 comments for post: xhs_real_1770476873_002
+2026-02-07 23:08:21,855 - INFO - Fetching details for post: xhs_real_1770476873_003
+2026-02-07 23:08:25,101 - INFO - Fetching comments for post: xhs_real_1770476873_003
+2026-02-07 23:08:28,972 - INFO - Fetched 16 comments for post: xhs_real_1770476873_003
+2026-02-07 23:08:31,451 - INFO - Fetching details for post: xhs_real_1770476873_004
+2026-02-07 23:08:34,942 - INFO - Fetching comments for post: xhs_real_1770476873_004
+2026-02-07 23:08:39,058 - INFO - Fetched 19 comments for post: xhs_real_1770476873_004
+2026-02-07 23:08:42,684 - INFO - Fetching details for post: xhs_real_1770476873_005
+2026-02-07 23:08:47,453 - INFO - Fetching comments for post: xhs_real_1770476873_005
+2026-02-07 23:08:52,208 - INFO - Fetched 10 comments for post: xhs_real_1770476873_005
+2026-02-07 23:08:55,441 - INFO - Fetching details for post: xhs_real_1770476873_006
+2026-02-07 23:08:59,499 - INFO - Fetching comments for post: xhs_real_1770476873_006
+2026-02-07 23:09:03,431 - INFO - Fetched 24 comments for post: xhs_real_1770476873_006
+2026-02-07 23:09:08,222 - INFO - Fetching details for post: xhs_real_1770476873_007
+2026-02-07 23:09:13,392 - INFO - Fetching comments for post: xhs_real_1770476873_007
+2026-02-07 23:09:16,482 - INFO - Fetched 9 comments for post: xhs_real_1770476873_007
+2026-02-07 23:09:20,222 - INFO - Fetching details for post: xhs_real_1770476873_008
+2026-02-07 23:09:23,603 - INFO - Fetching comments for post: xhs_real_1770476873_008
+2026-02-07 23:09:27,834 - INFO - Fetched 10 comments for post: xhs_real_1770476873_008
+2026-02-07 23:09:30,920 - INFO - Fetching details for post: xhs_real_1770476873_009
+2026-02-07 23:09:34,048 - INFO - Fetching comments for post: xhs_real_1770476873_009
+2026-02-07 23:09:37,578 - INFO - Fetched 16 comments for post: xhs_real_1770476873_009
+2026-02-07 23:09:40,756 - INFO - Fetching details for post: xhs_real_1770476873_010
+2026-02-07 23:09:46,115 - INFO - Fetching comments for post: xhs_real_1770476873_010
+2026-02-07 23:09:50,640 - INFO - Fetched 7 comments for post: xhs_real_1770476873_010
+2026-02-07 23:09:54,711 - INFO - Fetching details for post: xhs_real_1770476873_011
+2026-02-07 23:09:58,473 - INFO - Fetching comments for post: xhs_real_1770476873_011
+2026-02-07 23:10:01,683 - INFO - Fetched 10 comments for post: xhs_real_1770476873_011
+2026-02-07 23:10:06,436 - INFO - Fetching details for post: xhs_real_1770476873_012
+2026-02-07 23:10:09,311 - INFO - Fetching comments for post: xhs_real_1770476873_012
+2026-02-07 23:10:13,011 - INFO - Fetched 14 comments for post: xhs_real_1770476873_012
+2026-02-07 23:10:16,418 - INFO - Fetching details for post: xhs_real_1770476873_013
+2026-02-07 23:10:20,307 - INFO - Fetching comments for post: xhs_real_1770476873_013
+2026-02-07 23:10:23,668 - INFO - Fetched 13 comments for post: xhs_real_1770476873_013
+2026-02-07 23:10:26,409 - INFO - Fetching details for post: xhs_real_1770476873_014
+2026-02-07 23:10:30,409 - INFO - Fetching comments for post: xhs_real_1770476873_014
+2026-02-07 23:10:33,667 - INFO - Fetched 23 comments for post: xhs_real_1770476873_014
+2026-02-07 23:10:37,468 - INFO - Fetching details for post: xhs_real_1770476873_015
+2026-02-07 23:10:39,656 - INFO - Fetching comments for post: xhs_real_1770476873_015
+2026-02-07 23:10:43,879 - INFO - Fetched 15 comments for post: xhs_real_1770476873_015
+2026-02-07 23:10:46,916 - INFO - Fetching details for post: xhs_real_1770476873_016
+2026-02-07 23:10:50,424 - INFO - Fetching comments for post: xhs_real_1770476873_016
+2026-02-07 23:10:52,911 - INFO - Fetched 5 comments for post: xhs_real_1770476873_016
+2026-02-07 23:10:57,520 - INFO - Fetching details for post: xhs_real_1770476873_017
+2026-02-07 23:11:01,820 - INFO - Fetching comments for post: xhs_real_1770476873_017
+2026-02-07 23:11:03,792 - INFO - Fetched 20 comments for post: xhs_real_1770476873_017
+2026-02-07 23:11:07,409 - INFO - Fetching details for post: xhs_real_1770476873_018
+2026-02-07 23:11:10,083 - INFO - Fetching comments for post: xhs_real_1770476873_018
+2026-02-07 23:11:14,802 - INFO - Fetched 9 comments for post: xhs_real_1770476873_018
+2026-02-07 23:11:19,555 - INFO - Fetching details for post: xhs_real_1770476873_019
+2026-02-07 23:11:22,261 - INFO - Fetching comments for post: xhs_real_1770476873_019
+2026-02-07 23:11:25,378 - INFO - Fetched 12 comments for post: xhs_real_1770476873_019
+2026-02-07 23:11:25,383 - INFO - Saved 20 posts for keyword 'GEO优化' to xiaohongshu_data/posts/posts_GEO优化_20260207_231125.json
+2026-02-07 23:11:25,383 - INFO - Saved search metadata for keyword 'GEO优化' to xiaohongshu_data/searches/search_GEO优化_20260207_231125.json
+2026-02-07 23:11:25,384 - INFO - Scraping completed for keyword: GEO优化. Found 20 posts.
+2026-02-07 23:11:25,392 - INFO - Starting scrape for keyword: GEO推广 with period: 1_week
+2026-02-07 23:11:25,392 - INFO - Searching for posts with keyword: GEO推广
+2026-02-07 23:11:25,392 - INFO - Using real data collector for search
+2026-02-07 23:11:26,537 - INFO - Found 17 posts via real data collector for keyword: GEO推广
+2026-02-07 23:11:26,537 - INFO - Filtered 17 posts out of 17 for period 1_week
+2026-02-07 23:11:26,537 - INFO - Fetching details for post: xhs_real_1770477086_000
+2026-02-07 23:11:29,418 - INFO - Fetching comments for post: xhs_real_1770477086_000
+2026-02-07 23:11:32,860 - INFO - Fetched 19 comments for post: xhs_real_1770477086_000
+2026-02-07 23:11:36,789 - INFO - Fetching details for post: xhs_real_1770477086_001
+2026-02-07 23:11:39,390 - INFO - Fetching comments for post: xhs_real_1770477086_001
+2026-02-07 23:11:43,689 - INFO - Fetched 5 comments for post: xhs_real_1770477086_001
+2026-02-07 23:11:48,297 - INFO - Fetching details for post: xhs_real_1770477086_002
+2026-02-07 23:11:51,019 - INFO - Fetching comments for post: xhs_real_1770477086_002
+2026-02-07 23:11:54,073 - INFO - Fetched 19 comments for post: xhs_real_1770477086_002
+2026-02-07 23:11:56,876 - INFO - Fetching details for post: xhs_real_1770477086_003
+2026-02-07 23:12:00,151 - INFO - Fetching comments for post: xhs_real_1770477086_003
+2026-02-07 23:12:02,423 - INFO - Fetched 15 comments for post: xhs_real_1770477086_003
+2026-02-07 23:12:07,056 - INFO - Fetching details for post: xhs_real_1770477086_004
+2026-02-07 23:12:11,575 - INFO - Fetching comments for post: xhs_real_1770477086_004
+2026-02-07 23:12:16,110 - INFO - Fetched 18 comments for post: xhs_real_1770477086_004
+2026-02-07 23:12:18,581 - INFO - Fetching details for post: xhs_real_1770477086_005
+2026-02-07 23:12:23,660 - INFO - Fetching comments for post: xhs_real_1770477086_005
+2026-02-07 23:12:28,025 - INFO - Fetched 22 comments for post: xhs_real_1770477086_005
+2026-02-07 23:12:32,576 - INFO - Fetching details for post: xhs_real_1770477086_006
+2026-02-07 23:12:34,940 - INFO - Fetching comments for post: xhs_real_1770477086_006
+2026-02-07 23:12:38,925 - INFO - Fetched 23 comments for post: xhs_real_1770477086_006
+2026-02-07 23:12:42,590 - INFO - Fetching details for post: xhs_real_1770477086_007
+2026-02-07 23:12:45,913 - INFO - Fetching comments for post: xhs_real_1770477086_007
+2026-02-07 23:12:51,144 - INFO - Fetched 25 comments for post: xhs_real_1770477086_007
+2026-02-07 23:12:55,986 - INFO - Fetching details for post: xhs_real_1770477086_008
+2026-02-07 23:12:59,018 - INFO - Fetching comments for post: xhs_real_1770477086_008
+2026-02-07 23:13:02,035 - INFO - Fetched 9 comments for post: xhs_real_1770477086_008
+2026-02-07 23:13:03,947 - INFO - Fetching details for post: xhs_real_1770477086_009
+2026-02-07 23:13:06,045 - INFO - Fetching comments for post: xhs_real_1770477086_009
+2026-02-07 23:13:09,221 - INFO - Fetched 7 comments for post: xhs_real_1770477086_009
+2026-02-07 23:13:12,443 - INFO - Fetching details for post: xhs_real_1770477086_010
+2026-02-07 23:13:15,656 - INFO - Fetching comments for post: xhs_real_1770477086_010
+2026-02-07 23:13:20,290 - INFO - Fetched 22 comments for post: xhs_real_1770477086_010
+2026-02-07 23:13:22,524 - INFO - Fetching details for post: xhs_real_1770477086_011
+2026-02-07 23:13:26,658 - INFO - Fetching comments for post: xhs_real_1770477086_011
+2026-02-07 23:13:28,688 - INFO - Fetched 10 comments for post: xhs_real_1770477086_011
+2026-02-07 23:13:30,715 - INFO - Fetching details for post: xhs_real_1770477086_012
+2026-02-07 23:13:34,928 - INFO - Fetching comments for post: xhs_real_1770477086_012
+2026-02-07 23:13:38,959 - INFO - Fetched 14 comments for post: xhs_real_1770477086_012
+2026-02-07 23:13:43,280 - INFO - Fetching details for post: xhs_real_1770477086_013
+2026-02-07 23:13:45,844 - INFO - Fetching comments for post: xhs_real_1770477086_013
+2026-02-07 23:13:49,472 - INFO - Fetched 7 comments for post: xhs_real_1770477086_013
+2026-02-07 23:13:53,633 - INFO - Fetching details for post: xhs_real_1770477086_014
+2026-02-07 23:13:57,670 - INFO - Fetching comments for post: xhs_real_1770477086_014
+2026-02-07 23:14:02,989 - INFO - Fetched 22 comments for post: xhs_real_1770477086_014
+2026-02-07 23:14:05,882 - INFO - Fetching details for post: xhs_real_1770477086_015
+2026-02-07 23:14:10,345 - INFO - Fetching comments for post: xhs_real_1770477086_015
+2026-02-07 23:14:14,977 - INFO - Fetched 6 comments for post: xhs_real_1770477086_015
+2026-02-07 23:14:16,694 - INFO - Fetching details for post: xhs_real_1770477086_016
+2026-02-07 23:14:19,262 - INFO - Fetching comments for post: xhs_real_1770477086_016
+2026-02-07 23:14:23,714 - INFO - Fetched 7 comments for post: xhs_real_1770477086_016
+2026-02-07 23:14:23,719 - INFO - Saved 17 posts for keyword 'GEO推广' to xiaohongshu_data/posts/posts_GEO推广_20260207_231423.json
+2026-02-07 23:14:23,719 - INFO - Saved search metadata for keyword 'GEO推广' to xiaohongshu_data/searches/search_GEO推广_20260207_231423.json
+2026-02-07 23:14:23,719 - INFO - Scraping completed for keyword: GEO推广. Found 17 posts.
+2026-02-07 23:14:23,732 - INFO - Starting scrape for keyword: GEO服务 with period: 1_week
+2026-02-07 23:14:23,732 - INFO - Searching for posts with keyword: GEO服务
+2026-02-07 23:14:23,732 - INFO - Using real data collector for search
+2026-02-07 23:14:25,013 - INFO - Found 20 posts via real data collector for keyword: GEO服务
+2026-02-07 23:14:25,013 - INFO - Filtered 20 posts out of 20 for period 1_week
+2026-02-07 23:14:25,013 - INFO - Fetching details for post: xhs_real_1770477265_000
+2026-02-07 23:14:28,834 - INFO - Fetching comments for post: xhs_real_1770477265_000
+2026-02-07 23:14:31,490 - INFO - Fetched 5 comments for post: xhs_real_1770477265_000
+2026-02-07 23:14:33,753 - INFO - Fetching details for post: xhs_real_1770477265_001
+2026-02-07 23:14:37,105 - INFO - Fetching comments for post: xhs_real_1770477265_001
+2026-02-07 23:14:40,003 - INFO - Fetched 21 comments for post: xhs_real_1770477265_001
+2026-02-07 23:14:43,016 - INFO - Fetching details for post: xhs_real_1770477265_002
+2026-02-07 23:14:46,817 - INFO - Fetching comments for post: xhs_real_1770477265_002
+2026-02-07 23:14:51,598 - INFO - Fetched 20 comments for post: xhs_real_1770477265_002
+2026-02-07 23:14:53,910 - INFO - Fetching details for post: xhs_real_1770477265_003
+2026-02-07 23:14:57,038 - INFO - Fetching comments for post: xhs_real_1770477265_003
+2026-02-07 23:15:00,333 - INFO - Fetched 23 comments for post: xhs_real_1770477265_003
+2026-02-07 23:15:02,606 - INFO - Fetching details for post: xhs_real_1770477265_004
+2026-02-07 23:15:04,854 - INFO - Fetching comments for post: xhs_real_1770477265_004
+2026-02-07 23:15:07,437 - INFO - Fetched 7 comments for post: xhs_real_1770477265_004
+2026-02-07 23:15:09,372 - INFO - Fetching details for post: xhs_real_1770477265_005
+2026-02-07 23:15:12,608 - INFO - Fetching comments for post: xhs_real_1770477265_005
+2026-02-07 23:15:17,021 - INFO - Fetched 22 comments for post: xhs_real_1770477265_005
+2026-02-07 23:15:19,248 - INFO - Fetching details for post: xhs_real_1770477265_006
+2026-02-07 23:15:21,763 - INFO - Fetching comments for post: xhs_real_1770477265_006
+2026-02-07 23:15:25,357 - INFO - Fetched 20 comments for post: xhs_real_1770477265_006
+2026-02-07 23:15:28,038 - INFO - Fetching details for post: xhs_real_1770477265_007
+2026-02-07 23:15:30,801 - INFO - Fetching comments for post: xhs_real_1770477265_007
+2026-02-07 23:15:35,796 - INFO - Fetched 14 comments for post: xhs_real_1770477265_007
+2026-02-07 23:15:39,799 - INFO - Fetching details for post: xhs_real_1770477265_008
+2026-02-07 23:15:43,670 - INFO - Fetching comments for post: xhs_real_1770477265_008
+2026-02-07 23:15:45,686 - INFO - Fetched 19 comments for post: xhs_real_1770477265_008
+2026-02-07 23:15:48,107 - INFO - Fetching details for post: xhs_real_1770477265_009
+2026-02-07 23:15:52,527 - INFO - Fetching comments for post: xhs_real_1770477265_009
+2026-02-07 23:15:55,768 - INFO - Fetched 24 comments for post: xhs_real_1770477265_009
+2026-02-07 23:16:00,059 - INFO - Fetching details for post: xhs_real_1770477265_010
+2026-02-07 23:16:02,657 - INFO - Fetching comments for post: xhs_real_1770477265_010
+2026-02-07 23:16:06,766 - INFO - Fetched 16 comments for post: xhs_real_1770477265_010
+2026-02-07 23:16:11,449 - INFO - Fetching details for post: xhs_real_1770477265_011
+2026-02-07 23:16:15,696 - INFO - Fetching comments for post: xhs_real_1770477265_011
+2026-02-07 23:16:19,693 - INFO - Fetched 24 comments for post: xhs_real_1770477265_011
+2026-02-07 23:16:24,168 - INFO - Fetching details for post: xhs_real_1770477265_012
+2026-02-07 23:16:26,605 - INFO - Fetching comments for post: xhs_real_1770477265_012
+2026-02-07 23:16:30,641 - INFO - Fetched 9 comments for post: xhs_real_1770477265_012
+2026-02-07 23:16:34,700 - INFO - Fetching details for post: xhs_real_1770477265_013
+2026-02-07 23:16:38,834 - INFO - Fetching comments for post: xhs_real_1770477265_013
+2026-02-07 23:16:42,279 - INFO - Fetched 15 comments for post: xhs_real_1770477265_013
+2026-02-07 23:16:46,511 - INFO - Fetching details for post: xhs_real_1770477265_014
+2026-02-07 23:16:49,514 - INFO - Fetching comments for post: xhs_real_1770477265_014
+2026-02-07 23:16:52,503 - INFO - Fetched 16 comments for post: xhs_real_1770477265_014
+2026-02-07 23:16:55,236 - INFO - Fetching details for post: xhs_real_1770477265_015
+2026-02-07 23:16:58,512 - INFO - Fetching comments for post: xhs_real_1770477265_015
+2026-02-07 23:17:03,146 - INFO - Fetched 19 comments for post: xhs_real_1770477265_015
+2026-02-07 23:17:06,615 - INFO - Fetching details for post: xhs_real_1770477265_016
+2026-02-07 23:17:10,014 - INFO - Fetching comments for post: xhs_real_1770477265_016
+2026-02-07 23:17:14,166 - INFO - Fetched 18 comments for post: xhs_real_1770477265_016
+2026-02-07 23:17:16,147 - INFO - Fetching details for post: xhs_real_1770477265_017
+2026-02-07 23:17:20,753 - INFO - Fetching comments for post: xhs_real_1770477265_017
+2026-02-07 23:17:23,544 - INFO - Fetched 16 comments for post: xhs_real_1770477265_017
+2026-02-07 23:17:27,080 - INFO - Fetching details for post: xhs_real_1770477265_018
+2026-02-07 23:17:29,686 - INFO - Fetching comments for post: xhs_real_1770477265_018
+2026-02-07 23:17:32,821 - INFO - Fetched 14 comments for post: xhs_real_1770477265_018
+2026-02-07 23:17:36,342 - INFO - Fetching details for post: xhs_real_1770477265_019
+2026-02-07 23:17:40,819 - INFO - Fetching comments for post: xhs_real_1770477265_019
+2026-02-07 23:17:45,860 - INFO - Fetched 20 comments for post: xhs_real_1770477265_019
+2026-02-07 23:17:45,865 - INFO - Saved 20 posts for keyword 'GEO服务' to xiaohongshu_data/posts/posts_GEO服务_20260207_231745.json
+2026-02-07 23:17:45,866 - INFO - Saved search metadata for keyword 'GEO服务' to xiaohongshu_data/searches/search_GEO服务_20260207_231745.json
+2026-02-07 23:17:45,866 - INFO - Scraping completed for keyword: GEO服务. Found 20 posts.
+2026-02-07 23:17:45,873 - INFO - Starting scrape for keyword: 靠谱GEO with period: 1_week
+2026-02-07 23:17:45,873 - INFO - Searching for posts with keyword: 靠谱GEO
+2026-02-07 23:17:45,873 - INFO - Using real data collector for search
+2026-02-07 23:17:46,826 - INFO - Found 20 posts via real data collector for keyword: 靠谱GEO
+2026-02-07 23:17:46,826 - INFO - Filtered 20 posts out of 20 for period 1_week
+2026-02-07 23:17:46,826 - INFO - Fetching details for post: xhs_real_1770477466_000
+2026-02-07 23:17:50,711 - INFO - Fetching comments for post: xhs_real_1770477466_000
+2026-02-07 23:17:55,310 - INFO - Fetched 9 comments for post: xhs_real_1770477466_000
+2026-02-07 23:17:59,655 - INFO - Fetching details for post: xhs_real_1770477466_001
+2026-02-07 23:18:03,194 - INFO - Fetching comments for post: xhs_real_1770477466_001
+2026-02-07 23:18:05,351 - INFO - Fetched 18 comments for post: xhs_real_1770477466_001
+2026-02-07 23:18:09,688 - INFO - Fetching details for post: xhs_real_1770477466_002
+2026-02-07 23:18:12,924 - INFO - Fetching comments for post: xhs_real_1770477466_002
+2026-02-07 23:18:15,738 - INFO - Fetched 22 comments for post: xhs_real_1770477466_002
+2026-02-07 23:18:20,053 - INFO - Fetching details for post: xhs_real_1770477466_003
+2026-02-07 23:18:25,429 - INFO - Fetching comments for post: xhs_real_1770477466_003
+2026-02-07 23:18:28,002 - INFO - Fetched 10 comments for post: xhs_real_1770477466_003
+2026-02-07 23:18:31,336 - INFO - Fetching details for post: xhs_real_1770477466_004
+2026-02-07 23:18:35,422 - INFO - Fetching comments for post: xhs_real_1770477466_004
+2026-02-07 23:18:37,769 - INFO - Fetched 9 comments for post: xhs_real_1770477466_004
+2026-02-07 23:18:40,258 - INFO - Fetching details for post: xhs_real_1770477466_005
+2026-02-07 23:18:43,716 - INFO - Fetching comments for post: xhs_real_1770477466_005
+2026-02-07 23:18:47,475 - INFO - Fetched 20 comments for post: xhs_real_1770477466_005
+2026-02-07 23:18:49,534 - INFO - Fetching details for post: xhs_real_1770477466_006
+2026-02-07 23:18:54,816 - INFO - Fetching comments for post: xhs_real_1770477466_006
+2026-02-07 23:18:59,817 - INFO - Fetched 21 comments for post: xhs_real_1770477466_006
+2026-02-07 23:19:01,542 - INFO - Fetching details for post: xhs_real_1770477466_007
+2026-02-07 23:19:03,204 - INFO - Fetching comments for post: xhs_real_1770477466_007
+2026-02-07 23:19:05,988 - INFO - Fetched 24 comments for post: xhs_real_1770477466_007
+2026-02-07 23:19:09,543 - INFO - Fetching details for post: xhs_real_1770477466_008
+2026-02-07 23:19:13,875 - INFO - Fetching comments for post: xhs_real_1770477466_008
+2026-02-07 23:19:15,789 - INFO - Fetched 15 comments for post: xhs_real_1770477466_008
+2026-02-07 23:19:20,331 - INFO - Fetching details for post: xhs_real_1770477466_009
+2026-02-07 23:19:24,786 - INFO - Fetching comments for post: xhs_real_1770477466_009
+2026-02-07 23:19:27,100 - INFO - Fetched 24 comments for post: xhs_real_1770477466_009
+2026-02-07 23:19:31,374 - INFO - Fetching details for post: xhs_real_1770477466_010
+2026-02-07 23:19:34,940 - INFO - Fetching comments for post: xhs_real_1770477466_010
+2026-02-07 23:19:38,182 - INFO - Fetched 12 comments for post: xhs_real_1770477466_010
+2026-02-07 23:19:40,751 - INFO - Fetching details for post: xhs_real_1770477466_011
+2026-02-07 23:19:42,524 - INFO - Fetching comments for post: xhs_real_1770477466_011
+2026-02-07 23:19:46,946 - INFO - Fetched 20 comments for post: xhs_real_1770477466_011
+2026-02-07 23:19:48,770 - INFO - Fetching details for post: xhs_real_1770477466_012
+2026-02-07 23:19:50,654 - INFO - Fetching comments for post: xhs_real_1770477466_012
+2026-02-07 23:19:53,133 - INFO - Fetched 16 comments for post: xhs_real_1770477466_012
+2026-02-07 23:19:58,260 - INFO - Fetching details for post: xhs_real_1770477466_013
+2026-02-07 23:20:02,605 - INFO - Fetching comments for post: xhs_real_1770477466_013
+2026-02-07 23:20:04,646 - INFO - Fetched 16 comments for post: xhs_real_1770477466_013
+2026-02-07 23:20:08,243 - INFO - Fetching details for post: xhs_real_1770477466_014
+2026-02-07 23:20:11,697 - INFO - Fetching comments for post: xhs_real_1770477466_014
+2026-02-07 23:20:15,250 - INFO - Fetched 10 comments for post: xhs_real_1770477466_014
+2026-02-07 23:20:17,185 - INFO - Fetching details for post: xhs_real_1770477466_015
+2026-02-07 23:20:22,182 - INFO - Fetching comments for post: xhs_real_1770477466_015
+2026-02-07 23:20:25,374 - INFO - Fetched 5 comments for post: xhs_real_1770477466_015
+2026-02-07 23:20:29,549 - INFO - Fetching details for post: xhs_real_1770477466_016
+2026-02-07 23:20:31,821 - INFO - Fetching comments for post: xhs_real_1770477466_016
+2026-02-07 23:20:35,196 - INFO - Fetched 8 comments for post: xhs_real_1770477466_016
+2026-02-07 23:20:39,476 - INFO - Fetching details for post: xhs_real_1770477466_017
+2026-02-07 23:20:42,946 - INFO - Fetching comments for post: xhs_real_1770477466_017
+2026-02-07 23:20:47,479 - INFO - Fetched 20 comments for post: xhs_real_1770477466_017
+2026-02-07 23:20:52,149 - INFO - Fetching details for post: xhs_real_1770477466_018
+2026-02-07 23:20:56,535 - INFO - Fetching comments for post: xhs_real_1770477466_018
+2026-02-07 23:20:58,582 - INFO - Fetched 21 comments for post: xhs_real_1770477466_018
+2026-02-07 23:21:02,575 - INFO - Fetching details for post: xhs_real_1770477466_019
+2026-02-07 23:21:05,965 - INFO - Fetching comments for post: xhs_real_1770477466_019
+2026-02-07 23:21:09,009 - INFO - Fetched 13 comments for post: xhs_real_1770477466_019
+2026-02-07 23:21:09,014 - INFO - Saved 20 posts for keyword '靠谱GEO' to xiaohongshu_data/posts/posts_靠谱GEO_20260207_232109.json
+2026-02-07 23:21:09,015 - INFO - Saved search metadata for keyword '靠谱GEO' to xiaohongshu_data/searches/search_靠谱GEO_20260207_232109.json
+2026-02-07 23:21:09,015 - INFO - Scraping completed for keyword: 靠谱GEO. Found 20 posts.
+2026-02-08 21:13:52,331 - INFO - Starting scrape for keyword: GEO优化 with period: 1_week
+2026-02-08 21:13:52,332 - INFO - Searching for posts with keyword: GEO优化
+2026-02-08 21:13:52,332 - INFO - Using real data collector for search
+2026-02-08 21:13:53,197 - INFO - Found 17 posts via real data collector for keyword: GEO优化
+2026-02-08 21:13:53,197 - INFO - Filtered 17 posts out of 17 for period 1_week
+2026-02-08 21:13:53,197 - INFO - Fetching details for post: xhs_real_1770556433_000
+2026-02-08 21:13:54,910 - INFO - Fetching comments for post: xhs_real_1770556433_000
+2026-02-08 21:13:58,469 - INFO - Fetched 20 comments for post: xhs_real_1770556433_000
+2026-02-08 21:14:02,847 - INFO - Fetching details for post: xhs_real_1770556433_001
+2026-02-08 21:14:06,391 - INFO - Fetching comments for post: xhs_real_1770556433_001
+2026-02-08 21:14:09,571 - INFO - Fetched 13 comments for post: xhs_real_1770556433_001
+2026-02-08 21:14:12,962 - INFO - Fetching details for post: xhs_real_1770556433_002
+2026-02-08 21:14:14,549 - INFO - Fetching comments for post: xhs_real_1770556433_002
+2026-02-08 21:14:18,703 - INFO - Fetched 20 comments for post: xhs_real_1770556433_002
+2026-02-08 21:14:21,960 - INFO - Fetching details for post: xhs_real_1770556433_003
+2026-02-08 21:14:25,209 - INFO - Fetching comments for post: xhs_real_1770556433_003
+2026-02-08 21:14:27,022 - INFO - Fetched 6 comments for post: xhs_real_1770556433_003
+2026-02-08 21:14:30,003 - INFO - Fetching details for post: xhs_real_1770556433_004
+2026-02-08 21:14:33,223 - INFO - Fetching comments for post: xhs_real_1770556433_004
+2026-02-08 21:14:37,606 - INFO - Fetched 13 comments for post: xhs_real_1770556433_004
+2026-02-08 21:14:40,280 - INFO - Saved 5 posts for keyword 'GEO优化' to xiaohongshu_data/posts/posts_GEO优化_20260208_211440.json
+2026-02-08 21:14:40,280 - INFO - Saved search metadata for keyword 'GEO优化' to xiaohongshu_data/searches/search_GEO优化_20260208_211440.json
+2026-02-08 21:14:40,280 - INFO - Scraping completed for keyword: GEO优化. Found 5 posts.
+2026-02-08 21:14:40,295 - INFO - Starting scrape for keyword: GEO推广 with period: 1_week
+2026-02-08 21:14:40,295 - INFO - Searching for posts with keyword: GEO推广
+2026-02-08 21:14:40,295 - INFO - Using real data collector for search
+2026-02-08 21:14:42,118 - INFO - Found 20 posts via real data collector for keyword: GEO推广
+2026-02-08 21:14:42,118 - INFO - Filtered 20 posts out of 20 for period 1_week
+2026-02-08 21:14:42,118 - INFO - Fetching details for post: xhs_real_1770556482_000
+2026-02-08 21:14:45,261 - INFO - Fetching comments for post: xhs_real_1770556482_000
+2026-02-08 21:14:49,611 - INFO - Fetched 10 comments for post: xhs_real_1770556482_000
+2026-02-08 21:14:52,329 - INFO - Fetching details for post: xhs_real_1770556482_001
+2026-02-08 21:14:56,837 - INFO - Fetching comments for post: xhs_real_1770556482_001
+2026-02-08 21:14:59,518 - INFO - Fetched 16 comments for post: xhs_real_1770556482_001
+2026-02-08 21:15:03,940 - INFO - Fetching details for post: xhs_real_1770556482_002
+2026-02-08 21:15:08,968 - INFO - Fetching comments for post: xhs_real_1770556482_002
+2026-02-08 21:15:12,526 - INFO - Fetched 19 comments for post: xhs_real_1770556482_002
+2026-02-08 21:15:15,092 - INFO - Fetching details for post: xhs_real_1770556482_003
+2026-02-08 21:15:18,274 - INFO - Fetching comments for post: xhs_real_1770556482_003
+2026-02-08 21:15:23,063 - INFO - Fetched 7 comments for post: xhs_real_1770556482_003
+2026-02-08 21:15:27,589 - INFO - Fetching details for post: xhs_real_1770556482_004
+2026-02-08 21:15:30,737 - INFO - Fetching comments for post: xhs_real_1770556482_004
+2026-02-08 21:15:32,958 - INFO - Fetched 12 comments for post: xhs_real_1770556482_004
+2026-02-08 21:15:37,367 - INFO - Saved 5 posts for keyword 'GEO推广' to xiaohongshu_data/posts/posts_GEO推广_20260208_211537.json
+2026-02-08 21:15:37,368 - INFO - Saved search metadata for keyword 'GEO推广' to xiaohongshu_data/searches/search_GEO推广_20260208_211537.json
+2026-02-08 21:15:37,368 - INFO - Scraping completed for keyword: GEO推广. Found 5 posts.
+2026-02-08 21:15:37,369 - INFO - Starting scrape for keyword: GEO服务 with period: 1_week
+2026-02-08 21:15:37,369 - INFO - Searching for posts with keyword: GEO服务
+2026-02-08 21:15:37,370 - INFO - Using real data collector for search
+2026-02-08 21:15:37,876 - INFO - Found 17 posts via real data collector for keyword: GEO服务
+2026-02-08 21:15:37,876 - INFO - Filtered 17 posts out of 17 for period 1_week
+2026-02-08 21:15:37,876 - INFO - Fetching details for post: xhs_real_1770556537_000
+2026-02-08 21:15:41,568 - INFO - Fetching comments for post: xhs_real_1770556537_000
+2026-02-08 21:15:46,038 - INFO - Fetched 25 comments for post: xhs_real_1770556537_000
+2026-02-08 21:15:50,476 - INFO - Fetching details for post: xhs_real_1770556537_001
+2026-02-08 21:15:54,035 - INFO - Fetching comments for post: xhs_real_1770556537_001
+2026-02-08 21:15:58,878 - INFO - Fetched 13 comments for post: xhs_real_1770556537_001
+2026-02-08 21:16:00,875 - INFO - Fetching details for post: xhs_real_1770556537_002
+2026-02-08 21:16:03,667 - INFO - Fetching comments for post: xhs_real_1770556537_002
+2026-02-08 21:16:06,015 - INFO - Fetched 5 comments for post: xhs_real_1770556537_002
+2026-02-08 21:16:08,009 - INFO - Fetching details for post: xhs_real_1770556537_003
+2026-02-08 21:16:10,357 - INFO - Fetching comments for post: xhs_real_1770556537_003
+2026-02-08 21:16:12,457 - INFO - Fetched 13 comments for post: xhs_real_1770556537_003
+2026-02-08 21:16:16,663 - INFO - Fetching details for post: xhs_real_1770556537_004
+2026-02-08 21:16:20,543 - INFO - Fetching comments for post: xhs_real_1770556537_004
+2026-02-08 21:16:25,481 - INFO - Fetched 15 comments for post: xhs_real_1770556537_004
+2026-02-08 21:16:29,151 - INFO - Saved 5 posts for keyword 'GEO服务' to xiaohongshu_data/posts/posts_GEO服务_20260208_211629.json
+2026-02-08 21:16:29,151 - INFO - Saved search metadata for keyword 'GEO服务' to xiaohongshu_data/searches/search_GEO服务_20260208_211629.json
+2026-02-08 21:16:29,151 - INFO - Scraping completed for keyword: GEO服务. Found 5 posts.

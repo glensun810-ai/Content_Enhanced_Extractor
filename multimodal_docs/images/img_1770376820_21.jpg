@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>维度icon/经营信息/开户信息</title>
+    <defs>
+        <linearGradient x1="50%" y1="39.2910862%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#00DFFF" offset="0%"></stop>
+            <stop stop-color="#0088FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="维度icon/经营信息/开户信息" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组" transform="translate(3, 7.5)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <path d="M38.5,0 C40.4121545,0 42,1.4886206 42,3.375 L42,29.625 C42,31.5114015 40.4121616,33 38.5,33 L3.5,33 C1.58786123,33 0,31.5113955 0,29.625 L0,3.375 C0,1.4886266 1.58786837,0 3.5,0 L38.5,0 Z M39,11 L3,11 L3,29.625 C3,29.80971 3.20297805,30 3.5,30 L38.5,30 C38.7970384,30 39,29.8097235 39,29.625 L39,11 Z M32.5,23 C33.3284271,23 34,23.6715729 34,24.5 C34,25.3284271 33.3284271,26 32.5,26 L23.5,26 C22.6715729,26 22,25.3284271 22,24.5 C22,23.6715729 22.6715729,23 23.5,23 L32.5,23 Z M38.5,3 L3.5,3 C3.20299163,3 3,3.19030465 3,3.375 L3,8 L39,8 L39,3.375 C39,3.19029122 38.7970248,3 38.5,3 Z" id="形状结合"></path>
+        </g>
+    </g>
+</svg>
